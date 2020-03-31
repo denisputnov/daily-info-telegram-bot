@@ -1,0 +1,236 @@
+2020-03-31 15:40:22,639:INFO:getServerData:Server Data get successfully
+2020-03-31 15:40:22,640:INFO:getServerData:Server Data get successfully
+2020-03-31 15:40:22,642:ERROR:run:TypeError occurred, args=("'Job' object is not subscriptable",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 76, in sendInfoNow
+    dollarNow = staticInfo['dollar']
+TypeError: 'Job' object is not subscriptable
+
+2020-03-31 15:48:32,211:INFO:getServerData:Server Data get successfully
+2020-03-31 15:48:32,211:INFO:getServerData:Server Data get successfully
+2020-03-31 15:48:39,071:ERROR:run:TypeError occurred, args=("bad operand type for unary +: 'dict'",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 76, in sendInfoNow
+    dollarNow = getNewData()['dollar']
+  File "bot.py", line 53, in getNewData
+    logging.info('New Parse Data was taken', + dict)
+TypeError: bad operand type for unary +: 'dict'
+
+2020-03-31 15:49:18,125:INFO:getServerData:Server Data get successfully
+2020-03-31 15:49:18,125:INFO:getServerData:Server Data get successfully
+2020-03-31 15:49:25,115:ERROR:run:TypeError occurred, args=("bad operand type for unary +: 'str'",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 76, in sendInfoNow
+    dollarNow = getNewData()['dollar']
+  File "bot.py", line 53, in getNewData
+    logging.info('New Parse Data was taken', + str(dict))
+TypeError: bad operand type for unary +: 'str'
+
+2020-03-31 15:50:09,083:INFO:getServerData:Server Data get successfully
+2020-03-31 15:50:09,083:INFO:getServerData:Server Data get successfully
+2020-03-31 15:50:16,644:INFO:getNewData:New Parse Data was taken{'dollar': '78.39', 'euro': '85.81', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 15:50:23,161:INFO:getNewData:New Parse Data was taken{'dollar': '78.39', 'euro': '85.81', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 15:50:30,009:INFO:getNewData:New Parse Data was taken{'dollar': '78.39', 'euro': '85.81', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 15:50:37,088:INFO:getNewData:New Parse Data was taken{'dollar': '78.39', 'euro': '85.82', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 15:50:44,092:INFO:getNewData:New Parse Data was taken{'dollar': '78.39', 'euro': '85.82', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 15:56:02,171///INFO///getServerData/// - Server Data get successfully
+2020-03-31 15:56:02,171///INFO///getServerData/// - Server Data get successfully
+2020-03-31 15:56:08,756///ERROR///run/// - IndexError occurred, args=('list index out of range',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 76, in sendInfoNow
+    dollarNow = getNewData()['dollar']
+  File "bot.py", line 37, in getNewData
+    ruCorona = dataParser.checkCoronaRussia() # get dict vith coronavirus in russia info
+  File "c:\Для начального экрана\Работы\Программирование\daily-info-telegram-bot\dataParser.py", line 24, in checkCoronaRussia
+    return {'all': coronaRussiaConvert[0].text, 'recovered': coronaRussiaConvert[1].text, 'dies': coronaRussiaConvert[2].text}
+IndexError: list index out of range
+
+2020-03-31 16:06:16,365///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:06:16,366///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:06:23,310///ERROR///run/// - IndexError occurred, args=('list index out of range',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 76, in sendInfoNow
+    dollarNow = getNewData()['dollar']
+  File "bot.py", line 37, in getNewData
+    ruCorona = dataParser.checkCoronaRussia() # get dict vith coronavirus in russia info
+  File "c:\Для начального экрана\Работы\Программирование\daily-info-telegram-bot\dataParser.py", line 24, in checkCoronaRussia
+    return {'all': coronaRussiaConvert[0].text, 'recovered': coronaRussiaConvert[1].text, 'dies': coronaRussiaConvert[2].text}
+IndexError: list index out of range
+
+2020-03-31 16:07:27,407///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:07:27,407///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:07:35,282///ERROR///run/// - IndexError occurred, args=('list index out of range',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 76, in sendInfoNow
+    dollarNow = getNewData()['dollar']
+  File "bot.py", line 37, in getNewData
+    ruCorona = dataParser.checkCoronaRussia() # get dict vith coronavirus in russia info
+  File "c:\Для начального экрана\Работы\Программирование\daily-info-telegram-bot\dataParser.py", line 24, in checkCoronaRussia
+    return {'all': coronaRussiaConvert[0].text, 'recovered': coronaRussiaConvert[1].text, 'dies': coronaRussiaConvert[2].text}
+IndexError: list index out of range
+
+2020-03-31 16:08:24,452///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:08:35,047///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:08:35,047///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:08:41,566///ERROR///run/// - IndexError occurred, args=('list index out of range',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 80, in sendInfoNow
+    dollarNow = getNewData()['dollar']
+  File "bot.py", line 37, in getNewData
+    ruCorona = dataParser.checkCoronaRussia() # get dict vith coronavirus in russia info
+  File "c:\Для начального экрана\Работы\Программирование\daily-info-telegram-bot\dataParser.py", line 24, in checkCoronaRussia
+    return {'all': coronaRussiaConvert[0].text, 'recovered': coronaRussiaConvert[1].text, 'dies': coronaRussiaConvert[2].text}
+IndexError: list index out of range
+
+2020-03-31 16:14:37,988///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:14:43,618///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 386, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\ssl_.py", line 370, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+socket.timeout: _ssl.c:1091: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))
+
+2020-03-31 16:14:49,804///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:14:53,426///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 342, in connect
+    self._tunnel()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 894, in _tunnel
+    (version, code, message) = response._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+2020-03-31 16:15:09,860///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:15:15,526///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:15:15,526///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:15:26,540///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.43', 'euro': '85.93', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:15:36,066///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.43', 'euro': '85.93', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:15:44,165///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:15:54,498///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:16:02,973///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:16:47,945///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:16:47,945///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:16:55,983///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.94', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:17:03,465///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.94', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:17:10,811///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.94', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:17:18,045///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.94', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:17:25,108///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.45', 'euro': '85.94', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:24:24,192///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:24:24,192///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:24:38,180///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:24:47,807///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:24:57,387///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:25:05,392///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:25:14,552///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
