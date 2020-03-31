@@ -234,3 +234,1864 @@ Now it's started successfully.
 2020-03-31 16:24:57,387///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
 2020-03-31 16:25:05,392///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
 2020-03-31 16:25:14,552///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.50', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:40:00,499///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:40:00,503///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:40:56,078///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:40:56,078///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:41:08,961///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.34', 'euro': '85.90', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:41:21,338///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.34', 'euro': '85.90', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:41:32,823///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.34', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:41:43,587///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.39', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:41:55,730///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.39', 'euro': '85.96', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:42:07,844///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:42:07,848///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:43:08,653///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:43:08,656///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:43:39,221///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:43:39,221///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:43:39,223///ERROR///run/// - KeyError occurred, args=('dollar',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 85, in sendInfoNow
+    dollarNow = dataDict['dollar']
+KeyError: 'dollar'
+
+2020-03-31 16:45:19,273///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:45:19,276///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:46:01,471///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.44', 'euro': '86.03', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:46:01,478///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:46:22,679///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:46:22,679///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:46:29,653///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:46:29,653///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:46:32,859///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:46:32,859///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:46:54,936///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.44', 'euro': '86.05', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:46:54,941///INFO///<module>/// - 
+
+Now it's started successfully.
+
+
+2020-03-31 16:51:13,450///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.53', 'euro': '86.16', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:51:13,453///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:51:36,544///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.53', 'euro': '86.15', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:51:36,552///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:52:23,159///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.52', 'euro': '86.13', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:52:23,162///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:52:23,163///INFO///<module>/// - ####################
+
+Now it's started successfully. 
+
+####################
+2020-03-31 16:54:16,495///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.54', 'euro': '86.16', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:54:16,499///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:54:16,502///INFO///<module>/// - ####################
+
+Now it's started successfully. 
+
+####################
+2020-03-31 16:55:23,921///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:55:23,921///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:56:41,087///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.56', 'euro': '86.19', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 16:56:41,089///INFO///getServerData/// - Server Data get successfully
+2020-03-31 16:56:41,090///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 17:01:23,307///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.56', 'euro': '86.20', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:01:48,135///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.56', 'euro': '86.23', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:02:03,734///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.56', 'euro': '86.23', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:03:03,770///INFO///run/// - Running job Every 1 minute do getNewData() (last run: [never], next run: 2020-03-31 17:03:03)
+2020-03-31 17:03:12,689///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.56', 'euro': '86.18', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:05:00,829///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.49', 'euro': '86.11', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:05:00,833///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:05:00,836///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 17:06:00,868///INFO///run/// - Running job Every 1 minute do getNewData() (last run: [never], next run: 2020-03-31 17:06:00)
+2020-03-31 17:06:20,493///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.47', 'euro': '86.10', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:10:23,742///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.46', 'euro': '86.11', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:10:23,750///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:10:23,751///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 17:10:41,063///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:10:41,063///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:12:30,626///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.41', 'euro': '86.02', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:12:30,634///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:12:30,635///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 17:12:55,125///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:12:55,125///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:13:10,846///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:13:10,846///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:14:36,636///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.42', 'euro': '86.03', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 17:14:36,638///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:14:36,640///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 17:14:58,164///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:14:58,165///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:15:13,012///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:15:13,012///INFO///getServerData/// - Server Data get successfully
+2020-03-31 17:24:20,529///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.55', 'euro': '86.10', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 18:24:06,646///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.40', 'euro': '85.87', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 18:24:06,650///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:24:06,653///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 18:24:07,732///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: [never], next run: 2020-03-31 18:24:07)
+2020-03-31 18:24:08,732///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:07, next run: 2020-03-31 18:24:08)
+2020-03-31 18:24:09,734///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:08, next run: 2020-03-31 18:24:09)
+2020-03-31 18:24:10,734///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:09, next run: 2020-03-31 18:24:10)
+2020-03-31 18:24:11,735///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:10, next run: 2020-03-31 18:24:11)
+2020-03-31 18:24:12,735///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:11, next run: 2020-03-31 18:24:12)
+2020-03-31 18:24:13,736///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:12, next run: 2020-03-31 18:24:13)
+2020-03-31 18:24:14,736///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:13, next run: 2020-03-31 18:24:14)
+2020-03-31 18:24:15,737///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:14, next run: 2020-03-31 18:24:15)
+2020-03-31 18:24:16,737///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:15, next run: 2020-03-31 18:24:16)
+2020-03-31 18:24:17,737///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:16, next run: 2020-03-31 18:24:17)
+2020-03-31 18:24:18,738///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:17, next run: 2020-03-31 18:24:18)
+2020-03-31 18:24:19,738///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:18, next run: 2020-03-31 18:24:19)
+2020-03-31 18:24:20,739///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:19, next run: 2020-03-31 18:24:20)
+2020-03-31 18:24:21,739///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:20, next run: 2020-03-31 18:24:21)
+2020-03-31 18:24:22,739///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:21, next run: 2020-03-31 18:24:22)
+2020-03-31 18:24:23,740///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:22, next run: 2020-03-31 18:24:23)
+2020-03-31 18:24:24,740///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:23, next run: 2020-03-31 18:24:24)
+2020-03-31 18:24:25,740///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:24, next run: 2020-03-31 18:24:25)
+2020-03-31 18:24:26,740///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:25, next run: 2020-03-31 18:24:26)
+2020-03-31 18:24:27,740///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:26, next run: 2020-03-31 18:24:27)
+2020-03-31 18:24:28,741///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:27, next run: 2020-03-31 18:24:28)
+2020-03-31 18:24:29,742///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:28, next run: 2020-03-31 18:24:29)
+2020-03-31 18:24:30,743///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:29, next run: 2020-03-31 18:24:30)
+2020-03-31 18:24:31,744///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:30, next run: 2020-03-31 18:24:31)
+2020-03-31 18:24:32,781///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:31, next run: 2020-03-31 18:24:32)
+2020-03-31 18:24:33,782///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:32, next run: 2020-03-31 18:24:33)
+2020-03-31 18:24:34,782///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:33, next run: 2020-03-31 18:24:34)
+2020-03-31 18:24:35,783///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:34, next run: 2020-03-31 18:24:35)
+2020-03-31 18:24:36,783///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:35, next run: 2020-03-31 18:24:36)
+2020-03-31 18:24:37,783///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:36, next run: 2020-03-31 18:24:37)
+2020-03-31 18:24:38,784///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:37, next run: 2020-03-31 18:24:38)
+2020-03-31 18:24:39,784///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:38, next run: 2020-03-31 18:24:39)
+2020-03-31 18:24:40,786///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:39, next run: 2020-03-31 18:24:40)
+2020-03-31 18:24:41,786///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:40, next run: 2020-03-31 18:24:41)
+2020-03-31 18:24:42,787///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:41, next run: 2020-03-31 18:24:42)
+2020-03-31 18:24:43,787///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:42, next run: 2020-03-31 18:24:43)
+2020-03-31 18:24:44,789///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:43, next run: 2020-03-31 18:24:44)
+2020-03-31 18:24:45,790///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:44, next run: 2020-03-31 18:24:45)
+2020-03-31 18:24:46,791///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:45, next run: 2020-03-31 18:24:46)
+2020-03-31 18:24:47,792///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:46, next run: 2020-03-31 18:24:47)
+2020-03-31 18:24:48,792///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:47, next run: 2020-03-31 18:24:48)
+2020-03-31 18:24:49,792///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:48, next run: 2020-03-31 18:24:49)
+2020-03-31 18:24:50,793///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:49, next run: 2020-03-31 18:24:50)
+2020-03-31 18:24:51,793///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:50, next run: 2020-03-31 18:24:51)
+2020-03-31 18:24:52,794///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:51, next run: 2020-03-31 18:24:52)
+2020-03-31 18:24:53,794///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:52, next run: 2020-03-31 18:24:53)
+2020-03-31 18:24:54,795///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:53, next run: 2020-03-31 18:24:54)
+2020-03-31 18:24:55,796///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:54, next run: 2020-03-31 18:24:55)
+2020-03-31 18:24:56,796///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:55, next run: 2020-03-31 18:24:56)
+2020-03-31 18:24:57,797///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:56, next run: 2020-03-31 18:24:57)
+2020-03-31 18:24:58,797///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:57, next run: 2020-03-31 18:24:58)
+2020-03-31 18:24:59,798///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:58, next run: 2020-03-31 18:24:59)
+2020-03-31 18:25:00,798///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:24:59, next run: 2020-03-31 18:25:00)
+2020-03-31 18:25:01,799///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:00, next run: 2020-03-31 18:25:01)
+2020-03-31 18:25:02,799///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:01, next run: 2020-03-31 18:25:02)
+2020-03-31 18:25:03,800///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:02, next run: 2020-03-31 18:25:03)
+2020-03-31 18:25:04,801///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:03, next run: 2020-03-31 18:25:04)
+2020-03-31 18:25:05,802///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:04, next run: 2020-03-31 18:25:05)
+2020-03-31 18:25:06,859///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:05, next run: 2020-03-31 18:25:06)
+2020-03-31 18:25:06,859///INFO///run/// - Running job Every 1 minute do getNewData() (last run: [never], next run: 2020-03-31 18:25:06)
+2020-03-31 18:25:18,117///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.40', 'euro': '85.90', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': None, 'recovered': None, 'dies': None}}
+2020-03-31 18:25:19,119///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:06, next run: 2020-03-31 18:25:07)
+2020-03-31 18:25:20,120///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:19, next run: 2020-03-31 18:25:19)
+2020-03-31 18:25:21,121///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:20, next run: 2020-03-31 18:25:20)
+2020-03-31 18:25:22,121///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:21, next run: 2020-03-31 18:25:21)
+2020-03-31 18:25:23,122///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:22, next run: 2020-03-31 18:25:22)
+2020-03-31 18:25:24,122///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:23, next run: 2020-03-31 18:25:23)
+2020-03-31 18:25:25,123///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:24, next run: 2020-03-31 18:25:24)
+2020-03-31 18:25:26,124///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:25, next run: 2020-03-31 18:25:25)
+2020-03-31 18:25:27,124///INFO///run/// - Running job Every 0.5 seconds do botBody() (last run: 2020-03-31 18:25:26, next run: 2020-03-31 18:25:26)
+2020-03-31 18:36:26,620///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.38', 'euro': '86.09', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '805377', 'recovered': '172436', 'dies': '39469'}}
+2020-03-31 18:36:26,623///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:36:26,626///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 18:36:35,651///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:36:35,651///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:38:11,705///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:38:11,705///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:39:08,333///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:39:08,333///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:39:13,364///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendMessage?chat_id=276209120&text=%D0%92%D1%80%D0%B5%D0%BC%D1%8F+%D0%BD%D0%B0+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5+17%3A39%3A08+%28UTC+%2B3%29.%0A%09%09%0A%D0%92%D0%BE%D1%82+%D1%82%D0%B0%D0%BA%D1%83%D1%8E+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E+%D0%BC%D0%BD%D0%B5+%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%3A%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%3A+78.38%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B5%D0%B2%D1%80%D0%BE%3A+86.09%0A%09%09%0ACOVID-19+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%BD%D0%B0+31%3A03%3A2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+2337%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+121%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+17%0A%09%09%0ACOVID-19+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5+31%3A03%3A2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+805377%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+172436%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+39469 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 386, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\ssl_.py", line 370, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+socket.timeout: _ssl.c:1091: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendMessage?chat_id=276209120&text=%D0%92%D1%80%D0%B5%D0%BC%D1%8F+%D0%BD%D0%B0+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5+17%3A39%3A08+%28UTC+%2B3%29.%0A%09%09%0A%D0%92%D0%BE%D1%82+%D1%82%D0%B0%D0%BA%D1%83%D1%8E+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E+%D0%BC%D0%BD%D0%B5+%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%3A%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%3A+78.38%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B5%D0%B2%D1%80%D0%BE%3A+86.09%0A%09%09%0ACOVID-19+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%BD%D0%B0+31%3A03%3A2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+2337%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+121%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+17%0A%09%09%0ACOVID-19+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5+31%3A03%3A2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+805377%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+172436%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+39469 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 90, in sendInfoNow
+    bot.send_message(message.chat.id, f'Время на сервере {serverTimeNow}.\n\
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendMessage?chat_id=276209120&text=%D0%92%D1%80%D0%B5%D0%BC%D1%8F+%D0%BD%D0%B0+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5+17%3A39%3A08+%28UTC+%2B3%29.%0A%09%09%0A%D0%92%D0%BE%D1%82+%D1%82%D0%B0%D0%BA%D1%83%D1%8E+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E+%D0%BC%D0%BD%D0%B5+%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%3A%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%3A+78.38%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B5%D0%B2%D1%80%D0%BE%3A+86.09%0A%09%09%0ACOVID-19+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%BD%D0%B0+31%3A03%3A2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+2337%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+121%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+17%0A%09%09%0ACOVID-19+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5+31%3A03%3A2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+805377%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+172436%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+39469 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))
+
+2020-03-31 18:41:33,392///INFO///getNewData/// - New Parse Data was taken{'dollar': '78,32', 'euro': '86.08', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '805405', 'recovered': '172463', 'dies': '39551'}}
+2020-03-31 18:41:33,398///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:41:33,399///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 18:41:34,255///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:41:34,255///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:41:34,258///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:41:34,258///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:42:19,684///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:42:19,684///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:43:13,868///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:43:13,868///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:48:26,015///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:48:26,016///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:56:43,368///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.32', 'euro': '85,93', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '806080', 'recovered': '172516', 'dies': '39577'}}
+2020-03-31 18:56:43,372///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:56:43,372///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 18:56:46,961///ERROR///run/// - ConnectTimeout occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x04FFE628>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 161, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.VerifiedHTTPSConnection object at 0x04FFE628>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x04FFE628>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x04FFE628>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+2020-03-31 18:57:24,687///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.13', 'euro': '85.93', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '806080', 'recovered': '172516', 'dies': '39577'}}
+2020-03-31 18:57:24,695///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:57:24,695///INFO///<module>/// - ##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 18:57:34,506///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:57:34,506///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:57:36,428///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:57:36,428///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:57:45,008///INFO///getServerData/// - Server Data get successfully
+2020-03-31 18:57:45,008///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:02:11,050///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.13', 'euro': '85.72', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '809139', 'recovered': '172516', 'dies': '39559'}}
+2020-03-31 19:02:11,055///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:02:11,058///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:02:52,133///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.13', 'euro': '85.86', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '809139', 'recovered': '172516', 'dies': '39559'}}
+2020-03-31 19:02:52,138///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:02:52,140///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:03:01,133///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:03:01,133///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:03:57,539///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:03:57,539///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:04:56,892///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:04:56,892///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:06:53,027///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:06:53,027///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:09:26,483///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:09:26,483///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:10:01,849///INFO///run/// - Running job Every 1 minute do getNewData() (last run: [never], next run: 2020-03-31 19:03:52)
+2020-03-31 19:10:57,908///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.13', 'euro': '85.86', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '809248', 'recovered': '172517', 'dies': '39563'}}
+2020-03-31 19:10:57,910///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:10:57,911///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:11:12,806///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:11:12,806///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:11:47,191///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:11:47,191///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:12:18,962///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:12:18,962///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:12:53,319///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:12:53,319///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:13:02,320///INFO///run/// - Running job Every 1 minute do getNewData() (last run: [never], next run: 2020-03-31 19:11:57)
+2020-03-31 19:13:14,188///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.14', 'euro': '85.82', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '809248', 'recovered': '172517', 'dies': '39563'}}
+2020-03-31 19:15:49,399///INFO///run/// - Running job Every 1 minute do getNewData() (last run: 2020-03-31 19:13:14, next run: 2020-03-31 19:14:14)
+2020-03-31 19:17:12,578///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.00', 'euro': '85.79', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '809276', 'recovered': '172521', 'dies': '39565'}}
+2020-03-31 19:17:12,581///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:17:12,582///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:27:58,023///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:27:58,023///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:27:58,024///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:28:49,866///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:28:49,866///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:28:49,866///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:28:56,699///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:28:56,700///INFO///sendWelcomeMessage/// -  --- 587125336 used /start command now
+2020-03-31 19:29:01,511///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:29:01,513///INFO///sendWelcomeMessage/// -  --- 587125336 used /start command now
+2020-03-31 19:29:04,457///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:29:04,457///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:29:04,458///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:30:37,868///INFO///run/// - Running job Every 5 minutes do getNewData() (last run: [never], next run: 2020-03-31 19:22:12)
+2020-03-31 19:38:24,238///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:38:24,242///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:41:00,959///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.80', 'euro': '85.59', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '818699', 'recovered': '173197', 'dies': '39784'}}
+2020-03-31 19:41:00,961///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:41:00,962///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:41:06,693///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:41:06,693///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:41:06,693///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:42:21,447///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:42:21,447///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:42:21,448///INFO///sendInfoNow/// -  --- 876619680 used /info command now
+2020-03-31 19:42:32,085///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:42:32,085///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:42:32,086///INFO///sendInfoNow/// -  --- 779494443 used /info command now
+2020-03-31 19:42:39,471///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:42:39,471///INFO///sendWelcomeMessage/// -  --- 592090926 used /start command now
+2020-03-31 19:42:44,097///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:42:45,559///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:34,713///INFO///sendWelcomeMessage/// -  --- 592090926 used /start command now
+2020-03-31 19:43:34,713///INFO///sendWelcomeMessage/// -  --- 779494443 used /start command now
+2020-03-31 19:43:36,154///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,154///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,154///INFO///sendInfoNow/// -  --- 592090926 used /info command now
+2020-03-31 19:43:36,306///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,306///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,306///INFO///sendInfoNow/// -  --- 779494443 used /info command now
+2020-03-31 19:43:36,549///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,549///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,549///INFO///sendInfoNow/// -  --- 592090926 used /info command now
+2020-03-31 19:43:36,689///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,689///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:43:36,689///INFO///sendInfoNow/// -  --- 592090926 used /info command now
+2020-03-31 19:44:37,500///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:44:37,500///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:44:37,500///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:44:50,093///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:44:50,093///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:44:50,094///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:45:45,608///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:45:45,609///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:45:45,610///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:45:54,939///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:45:54,939///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:45:54,940///INFO///sendInfoNow/// -  --- 779494443 used /info command now
+2020-03-31 19:46:39,097///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:46:39,098///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:46:39,099///INFO///sendInfoNow/// -  --- 592090926 used /info command now
+2020-03-31 19:46:41,824///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:46:41,825///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:46:41,825///INFO///sendInfoNow/// -  --- 592090926 used /info command now
+2020-03-31 19:46:45,822///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:46:45,822///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:46:45,951///INFO///sendInfoNow/// -  --- 592090926 used /info command now
+2020-03-31 19:47:27,836///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:47:27,836///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:47:27,836///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:51:21,712///ERROR///run/// - ReadTimeout occurred, args=(ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 330, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+2020-03-31 19:52:13,345///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.92', 'euro': '85.76', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '818835', 'recovered': '173209', 'dies': '39793'}}
+2020-03-31 19:52:13,349///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:52:13,352///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 19:52:19,750///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:52:19,750///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:52:19,751///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 19:54:09,555///INFO///getServerData/// - Server Data get successfully
+2020-03-31 19:54:09,555///INFO///sendWelcomeMessage/// -  --- 587125336 used /start command now
+2020-03-31 19:57:43,584///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-03-31 19:57:58,529///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-03-31 19:58:22,653///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-03-31 19:58:28,599///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-03-31 19:58:31,563///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-03-31 19:58:35,834///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11794742&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 272, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11794742&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11794742&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+
+2020-03-31 20:00:23,605///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.88', 'euro': '85.79', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '819038', 'recovered': '173214', 'dies': '39794'}}
+2020-03-31 20:00:23,611///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:00:23,611///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 20:00:37,272///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.88', 'euro': '85.79', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '819038', 'recovered': '173214', 'dies': '39794'}}
+2020-03-31 20:01:04,320///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.88', 'euro': '85.79', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '819038', 'recovered': '173214', 'dies': '39794'}}
+2020-03-31 20:01:04,323///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:01:04,326///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 20:01:07,284///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:01:07,285///INFO///sendWelcomeMessage/// -  --- 587125336 used /start command now
+2020-03-31 20:13:02,992///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.82', 'euro': '85.58', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '823194', 'recovered': '174332', 'dies': '40633'}}
+2020-03-31 20:13:02,994///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:13:02,995///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 20:14:32,494///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 272, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+
+2020-03-31 20:15:05,087///INFO///getNewData/// - New Parse Data was taken{'dollar': '77.83', 'euro': '85.60', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '823197', 'recovered': '174333', 'dies': '40633'}}
+2020-03-31 20:15:05,090///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:15:05,090///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 20:15:31,364///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:15:31,364///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-03-31 20:15:41,084///INFO///getServerData/// - Server Data get successfully
+2020-03-31 20:15:41,084///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:18:46,276///INFO///sendInfoNow/// -  --- 587125336 used /info command now
+2020-03-31 20:17:37,908///ERROR///run/// - ReadTimeout occurred, args=(ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 330, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+2020-03-31 22:19:41,115///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.13', 'euro': '86.00', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '837115', 'recovered': '176058', 'dies': '41249'}}
+2020-03-31 22:19:41,122///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:19:41,123///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:19:42,011///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:19:42,011///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:19:42,016///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:20:06,434///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:20:06,435///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:20:06,441///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:21:06,347///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11794747&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 272, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11794747&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11794747&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+
+2020-03-31 22:24:04,274///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.17', 'euro': '86,02', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '837211', 'recovered': '176058', 'dies': '41250'}}
+2020-03-31 22:24:04,276///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:24:04,277///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:24:07,817///ERROR///run/// - ConnectTimeout occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x04B265B0>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 161, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.VerifiedHTTPSConnection object at 0x04B265B0>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x04B265B0>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x04B265B0>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+2020-03-31 22:26:50,368///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.18', 'euro': '86,05', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '837211', 'recovered': '176058', 'dies': '41250'}}
+2020-03-31 22:26:50,424///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:26:50,426///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:28:24,684///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.27', 'euro': '86,15', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '837211', 'recovered': '176058', 'dies': '41250'}}
+2020-03-31 22:28:24,686///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:28:24,687///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:28:40,174///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:28:40,175///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:28:40,176///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:29:23,698///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:29:23,699///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:29:23,699///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:29:40,388///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:29:40,388///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-03-31 22:30:07,525///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:30:07,527///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-03-31 22:32:20,380///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.33', 'euro': '86.18', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '839900', 'recovered': '176086', 'dies': '41345'}}
+2020-03-31 22:32:20,386///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:32:20,387///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:32:33,244///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:32:33,245///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-03-31 22:32:34,979///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:32:34,979///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:32:34,981///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:32:40,617///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:32:40,618///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:32:40,619///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:34:03,972///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:34:03,972///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:34:03,973///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:34:31,108///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:34:31,108///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:34:31,109///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:35:03,811///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:35:03,811///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:35:03,811///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:35:43,840///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:35:43,841///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:35:43,841///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:38:31,127///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.26', 'euro': '86.15', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841197', 'recovered': '176086', 'dies': '41401'}}
+2020-03-31 22:38:31,129///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:38:31,130///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:38:38,307///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:38:38,307///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:38:38,307///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:42:04,197///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.25', 'euro': '86.13', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841285', 'recovered': '176097', 'dies': '41403'}}
+2020-03-31 22:42:04,203///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:42:04,203///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:42:58,511///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:42:58,511///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:42:58,512///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:44:48,696///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:44:48,698///INFO///sendWelcomeMessage/// - 869036799 used /start command now
+2020-03-31 22:44:52,895///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:44:52,896///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:44:52,896///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 22:45:01,292///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:45:01,292///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:45:01,292///INFO///sendInfoNow/// - 869036799 used /info command now
+2020-03-31 22:45:24,210///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:45:31,970///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.24', 'euro': '86.17', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841309', 'recovered': '176443', 'dies': '41403'}}
+2020-03-31 22:47:11,231///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.24', 'euro': '86.13', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841309', 'recovered': '176443', 'dies': '41403'}}
+2020-03-31 22:47:11,235///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:47:11,237///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 22:50:31,241///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:50:38,782///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:50:38,783///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:50:38,783///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:50:45,712///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:50:45,714///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:50:45,714///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:50:53,044///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:50:53,050///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:50:53,050///INFO///getServerData/// - Server Data get successfully
+2020-03-31 22:51:00,416///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 22:51:00,421///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.36', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '841378', 'recovered': '176443', 'dies': '41404'}}
+2020-03-31 23:15:37,280///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.40', 'euro': '86.36', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845526', 'recovered': '176504', 'dies': '41429'}}
+2020-03-31 23:15:53,292///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:15:53,293///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:15:53,294///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:15:55,181///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:15:55,182///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:15:55,182///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 23:16:42,573///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.43', 'euro': '86.40', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845526', 'recovered': '176504', 'dies': '41429'}}
+2020-03-31 23:16:42,575///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:16:42,576///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:16:42,899///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:16:42,899///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:16:42,899///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 23:19:01,041///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:19:01,041///INFO///sendWelcomeMessage/// - 841591829 used /start command now
+2020-03-31 23:19:23,466///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:19:23,466///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:19:23,467///INFO///sendInfoNow/// - 841591829 used /info command now
+2020-03-31 23:20:54,597///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:21:07,781///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.42', 'euro': '86.34', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845526', 'recovered': '176504', 'dies': '41429'}}
+2020-03-31 23:21:07,782///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.42', 'euro': '86.34', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845526', 'recovered': '176504', 'dies': '41429'}}
+2020-03-31 23:25:55,802///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:26:26,921///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.54', 'euro': '86.43', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845526', 'recovered': '176504', 'dies': '41435'}}
+2020-03-31 23:26:26,926///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.54', 'euro': '86.43', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845526', 'recovered': '176504', 'dies': '41435'}}
+2020-03-31 23:26:59,567///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:26:59,568///INFO///sendWelcomeMessage/// - 464020229 used /start command now
+2020-03-31 23:27:06,504///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:27:06,504///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:27:16,769///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:27:16,769///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:27:20,777///INFO///sendInfoNow/// - 464020229 used /info command now
+2020-03-31 23:27:20,781///INFO///sendInfoNow/// - 464020229 used /info command now
+2020-03-31 23:30:56,948///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:31:04,882///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.54', 'euro': '86.45', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845651', 'recovered': '176520', 'dies': '41437'}}
+2020-03-31 23:31:04,893///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.54', 'euro': '86.45', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845651', 'recovered': '176520', 'dies': '41437'}}
+2020-03-31 23:35:10,517///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.49', 'euro': '86.40', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '845720', 'recovered': '176520', 'dies': '41437'}}
+2020-03-31 23:35:10,523///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:35:10,523///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:36:26,137///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.46', 'euro': '86.37', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846139', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:36:26,139///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:36:26,140///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:37:47,014///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.47', 'euro': '86.37', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846139', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:37:47,017///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:37:47,018///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:38:00,571///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:38:00,572///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:38:00,572///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 23:40:19,399///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.46', 'euro': '86.41', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846139', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:40:19,402///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:40:19,405///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:40:30,770///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:40:30,770///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:40:30,770///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-03-31 23:40:55,407///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:41:03,271///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.46', 'euro': '86.41', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846139', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:41:03,273///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.46', 'euro': '86.41', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846139', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:45:51,291///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:45:58,356///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.49', 'euro': '86.46', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846146', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:45:58,362///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.49', 'euro': '86.46', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846146', 'recovered': '176520', 'dies': '41475'}}
+2020-03-31 23:45:58,362///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:46:05,412///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.49', 'euro': '86.46', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:46:05,419///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.49', 'euro': '86.46', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:47:20,673///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.48', 'euro': '86.48', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:47:20,679///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:47:20,679///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:50:56,695///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:51:04,628///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.49', 'euro': '86.50', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:51:04,635///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.49', 'euro': '86.50', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:51:30,574///ERROR///run/// - UnboundLocalError occurred, args=("local variable 'activity' referenced before assignment",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 95, in stopDataRefresh
+    if activity == True:
+UnboundLocalError: local variable 'activity' referenced before assignment
+
+2020-03-31 23:55:04,761///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.51', 'euro': '86.49', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:55:04,764///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:55:04,765///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-03-31 23:55:05,732///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:55:05,732///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:55:05,733///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:55:05,733///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:55:05,734///INFO///sendInfoNow/// - 815925451 used /info command now
+2020-03-31 23:55:05,735///INFO///sendInfoNow/// - 464020229 used /info command now
+2020-03-31 23:55:58,770///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:56:06,558///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.53', 'euro': '86.59', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:56:06,564///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.53', 'euro': '86.59', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176520', 'dies': '41482'}}
+2020-03-31 23:56:35,219///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:56:35,219///INFO///getServerData/// - Server Data get successfully
+2020-03-31 23:56:35,219///INFO///sendInfoNow/// - 815925451 used /info command now
+2020-04-01 00:00:54,584///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:01:03,247///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.53', 'euro': '86.62', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176541', 'dies': '41482'}}
+2020-04-01 00:01:03,253///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.53', 'euro': '86.62', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176541', 'dies': '41482'}}
+2020-04-01 00:05:51,276///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:06:00,186///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.57', 'euro': '86.53', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176541', 'dies': '41482'}}
+2020-04-01 00:06:00,192///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.57', 'euro': '86.53', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846251', 'recovered': '176541', 'dies': '41482'}}
+2020-04-01 00:08:10,887///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:10,887///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:10,888///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:11,520///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:11,520///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:11,520///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:13,425///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:13,425///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:13,426///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:18,424///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:18,424///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:18,425///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:20,053///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:20,053///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:20,053///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:20,565///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:20,565///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:20,565///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:20,975///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:20,975///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:20,975///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:21,341///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:21,341///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:21,341///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:21,693///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:21,693///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:21,694///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:22,101///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:22,101///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:22,101///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:22,408///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:22,408///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:22,408///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:22,818///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:22,819///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:22,819///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:23,177///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:23,177///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:23,177///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:23,534///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:23,534///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:23,537///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:23,944///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:23,944///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:23,945///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:24,244///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:24,244///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:24,244///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:24,583///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:24,661///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:24,661///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:24,987///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:24,987///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:24,987///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:25,343///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:25,343///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:25,343///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:25,776///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:25,776///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:25,777///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:27,017///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:27,017///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:27,017///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:27,251///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:27,251///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:27,251///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:27,637///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:27,637///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:27,637///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:28,231///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:28,231///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:28,231///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:28,451///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:28,451///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:28,451///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:28,824///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:28,824///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:28,824///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:29,892///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:29,892///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:29,892///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:30,600///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:30,600///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:30,600///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:31,522///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:31,522///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:31,523///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:31,931///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:31,932///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:31,933///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:32,372///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:32,372///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:32,372///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:32,740///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:32,740///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:32,741///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:33,124///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:33,124///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:33,124///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:33,908///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:33,908///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:33,909///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:34,303///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:34,303///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:34,303///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:34,670///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:34,670///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:34,672///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:35,004///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:35,004///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:35,004///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:35,823///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:35,823///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:35,823///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:36,208///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:36,209///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:36,209///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:36,571///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:36,571///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:36,572///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:36,970///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:36,973///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:36,973///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:37,405///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:37,406///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:37,406///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:37,862///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:37,862///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:37,862///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:38,280///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:38,280///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:38,281///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:38,690///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:38,690///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:38,690///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:39,099///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:39,099///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:39,100///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:39,509///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:39,509///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:39,510///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:39,757///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:39,757///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:39,758///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:40,151///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:40,151///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:40,151///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:40,552///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:40,554///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:40,554///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:40,985///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:40,985///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:40,986///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:41,288///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:41,288///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:41,288///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:41,658///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:41,659///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:41,659///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:42,076///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:42,076///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:42,076///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:42,479///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:42,479///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:42,480///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:42,908///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:42,908///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:42,909///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:43,333///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:43,333///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:43,333///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:43,810///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:43,810///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:43,810///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:44,158///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:44,159///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:44,159///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:44,538///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:44,538///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:44,538///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:44,948///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:44,949///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:44,949///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:45,263///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:45,263///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:45,263///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:45,585///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:45,585///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:45,586///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:45,925///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:45,926///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:45,926///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:46,278///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:46,278///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:46,278///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:46,677///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:46,677///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:46,677///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:47,291///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:47,292///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:47,292///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:47,670///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:47,670///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:47,670///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:48,002///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:48,002///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:48,002///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:48,132///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:48,132///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:48,132///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:08:48,559///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:48,559///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:48,559///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:49,067///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:49,067///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:49,069///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:50,263///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:50,263///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:50,263///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:50,465///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:50,466///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:50,467///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:08:50,568///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:50,568///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:50,568///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:51,397///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:51,398///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:51,398///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:51,695///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:51,695///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:51,696///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:52,045///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:52,045///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:52,046///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:52,186///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:52,186///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:52,186///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:08:53,084///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:53,084///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:53,085///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:08:54,255///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:54,256///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:54,256///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:08:55,996///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:55,996///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:55,997///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:08:57,716///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:57,716///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:08:57,717///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:02,856///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:02,857///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:02,857///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:04,672///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:04,672///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:04,672///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:06,593///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:06,593///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:06,594///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:08,591///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:08,592///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:08,593///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:10,435///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:10,435///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:10,435///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:12,687///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:12,688///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:12,688///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:14,430///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:14,430///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:14,431///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:16,271///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:16,271///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:16,272///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:21,779///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:21,779///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:21,779///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:22,313///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:22,313///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:22,313///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:23,542///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:23,542///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:23,542///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:24,771///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:24,771///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:24,771///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:30,118///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:30,118///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:30,119///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:31,121///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:31,121///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:31,121///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:31,493///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:31,493///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:31,493///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:31,939///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:31,939///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:31,940///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:32,236///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:32,236///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:32,237///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:32,656///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:32,656///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:32,657///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:33,066///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:33,066///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:33,066///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:33,474///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:33,474///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:33,475///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:33,988///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:33,988///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:33,989///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:34,339///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:34,339///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:34,340///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:34,763///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:34,763///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:34,764///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:35,274///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:35,274///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:35,274///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:35,586///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:35,586///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:35,586///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:36,650///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:36,650///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:36,650///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:37,265///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:37,265///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:37,265///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:37,571///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:37,571///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:37,572///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:38,416///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:38,417///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:38,418///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:38,706///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:38,707///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:38,707///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:39,084///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:39,085///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:39,085///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:39,450///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:39,450///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:39,450///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:39,857///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:39,857///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:39,857///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:40,233///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:40,233///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:40,234///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:41,053///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:41,053///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:41,053///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:41,258///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:41,258///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:41,258///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:42,258///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:42,258///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:42,258///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:46,786///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:46,786///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:46,786///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:46,922///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:46,922///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:46,923///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:47,326///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:47,326///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:47,327///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:48,528///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:48,528///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:48,529///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:49,644///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:49,645///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:49,645///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:50,704///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:50,704///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:50,704///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:52,727///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:52,727///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:52,727///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:54,664///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,664///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,665///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,665///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:54,665///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,669///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:54,856///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,856///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,856///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:54,911///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,912///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,912///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:54,995///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,995///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:54,995///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:56,412///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:56,412///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:56,413///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:56,631///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:56,631///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:56,631///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:09:58,204///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:58,204///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:58,204///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:09:59,904///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:59,904///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:09:59,904///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:01,947///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:01,947///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:01,947///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:03,172///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:03,172///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:03,172///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:04,605///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:04,605///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:04,605///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:06,244///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:06,244///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:06,244///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:08,927///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:08,927///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:08,927///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:10,239///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:10,239///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:10,239///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:11,465///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:11,465///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:11,465///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:14,443///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,444///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,444///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:14,743///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,743///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,744///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:14,846///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,846///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,847///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:14,948///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,948///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:14,949///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:15,051///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,051///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,052///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:15,153///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,153///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,154///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:15,255///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,255///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,256///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:15,358///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,358///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,358///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:15,563///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,563///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,564///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:15,685///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,685///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:15,685///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:17,713///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:17,713///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:17,713///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:18,582///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:18,583///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:18,585///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:20,272///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:20,273///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:20,273///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:22,117///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:22,117///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:22,117///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:24,071///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:24,071///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:24,073///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:25,700///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:25,700///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:25,700///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:27,031///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:27,031///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:27,032///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:28,654///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:28,654///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:28,655///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:31,639///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:31,639///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:31,640///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:32,971///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:32,971///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:32,972///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:35,120///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:35,120///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:35,121///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:36,147///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:36,148///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:36,149///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:37,783///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:37,783///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:37,784///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:39,736///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:39,736///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:39,736///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:41,367///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:41,367///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:41,368///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:43,008///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:43,008///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:43,008///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:45,024///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:45,025///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:45,025///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:10:52,633///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:52,633///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:52,635///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:53,042///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:53,042///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:53,043///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:53,387///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:53,387///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:53,388///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:53,759///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:53,759///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:53,759///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:54,578///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:54,578///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:54,579///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:54,987///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:54,987///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:54,987///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:55,337///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:55,337///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:55,337///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:56,161///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:56,161///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:56,162///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:57,011///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:57,011///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:57,011///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:57,213///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:57,463///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:57,463///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:57,465///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:58,095///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:58,095///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:58,095///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:58,434///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:58,434///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:58,440///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:59,420///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:59,421///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:59,428///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:10:59,638///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:59,638///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:10:59,639///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:00,128///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:00,128///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:00,129///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:11:00,904///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:00,904///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:00,911///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:11:01,432///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:01,438///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:01,443///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:11:01,886///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:01,887///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:01,887///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:11:02,299///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:02,299///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:02,300///INFO///sendInfoNow/// - 779494443 used /info command now
+2020-04-01 00:11:03,808///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:03,808///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:03,809///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:04,745///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.57', 'euro': '86.45', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846281', 'recovered': '176545', 'dies': '41482'}}
+2020-04-01 00:11:04,752///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.57', 'euro': '86.45', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846281', 'recovered': '176545', 'dies': '41482'}}
+2020-04-01 00:11:20,075///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:20,075///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:20,076///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:22,635///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:22,636///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:22,636///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:24,479///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:24,479///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:24,479///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:26,220///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:26,220///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:26,221///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:27,654///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:27,654///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:27,655///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:29,600///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:29,600///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:29,601///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:31,169///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:31,170///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:31,170///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:32,674///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:32,674///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:32,674///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:34,719///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:34,719///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:34,719///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:36,286///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:36,286///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:36,287///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:37,689///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:37,690///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:37,690///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:39,531///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:39,531///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:39,532///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:42,829///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:42,830///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:42,830///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:44,652///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:44,652///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:44,654///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:45,677///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:45,677///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:45,677///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:47,110///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:47,111///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:47,112///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:48,546///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:48,546///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:48,546///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:53,100///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:53,100///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:53,100///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:53,142///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:53,142///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:53,142///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:54,483///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:54,484///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:54,484///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:55,304///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:55,304///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:55,304///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:56,641///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:56,641///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:56,642///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:11:58,009///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:58,009///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:11:58,010///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:12:00,340///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:12:00,340///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:12:00,340///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:12:02,062///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:12:02,062///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:12:02,063///INFO///sendInfoNow/// - 592090926 used /info command now
+2020-04-01 00:15:52,776///INFO///getServerData/// - Server Data get successfully
+2020-04-01 00:16:22,693///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.57', 'euro': '86.49', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846281', 'recovered': '176545', 'dies': '41486'}}
+2020-04-01 00:16:22,693///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.57', 'euro': '86.49', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846281', 'recovered': '176545', 'dies': '41486'}}
