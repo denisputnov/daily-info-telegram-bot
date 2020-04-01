@@ -2189,3 +2189,145 @@ Now it's started successfully.
 2020-04-01 13:19:39,496///INFO///getServerData/// - Server Data get successfully
 2020-04-01 13:19:47,464///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.96', 'euro': '86.30', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862495', 'recovered': '179108', 'dies': '42510'}}
 2020-04-01 13:19:47,465///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.96', 'euro': '86.30', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862495', 'recovered': '179108', 'dies': '42510'}}
+2020-04-01 13:32:58,150///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.99', 'euro': '86.38', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862574', 'recovered': '179127', 'dies': '42528'}}
+2020-04-01 13:32:58,154///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:32:58,156///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-01 13:33:18,224///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:33:18,225///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:33:18,225///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 13:33:27,999///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:33:27,999///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:37:58,158///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:38:15,877///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.96', 'euro': '86.28', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862613', 'recovered': '179127', 'dies': '42528'}}
+2020-04-01 13:38:15,881///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.96', 'euro': '86.28', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862613', 'recovered': '179127', 'dies': '42528'}}
+2020-04-01 13:42:37,502///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.96', 'euro': '86.28', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862763', 'recovered': '179128', 'dies': '42534'}}
+2020-04-01 13:42:37,508///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:42:37,509///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-01 13:46:49,892///ERROR///run/// - ReadTimeout occurred, args=(ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 330, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+2020-04-01 13:47:37,512///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:50:31,544///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:51:24,298///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:51:24,308///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-01 13:52:18,788///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:52:18,789///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:52:23,685///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:52:23,685///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:52:23,685///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 13:54:19,097///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:55:28,844///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:55:34,407///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:55:34,407///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:56:24,310///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:56:49,629///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:56:52,399///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:56:52,401///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.88', 'euro': '86.24', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '871985', 'recovered': '183665', 'dies': '43261'}}
+2020-04-01 13:57:07,440///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:57:07,441///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:57:11,915///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:57:11,915///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:57:11,916///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 14:01:25,593///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:01:25,599///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-01 14:04:39,389///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:04:39,389///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:04:39,390///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 14:06:25,602///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:06:33,421///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.94', 'euro': '86.31', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '872696', 'recovered': '184514', 'dies': '43269'}}
+2020-04-01 14:07:47,305///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:07:47,307///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 14:07:53,912///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:07:53,913///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:07:53,913///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 14:11:33,422///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:11:40,922///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.99', 'euro': '86.38', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '872696', 'recovered': '184514', 'dies': '43269'}}
+2020-04-01 14:16:37,466///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:17:16,261///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.99', 'euro': '86.40', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '872777', 'recovered': '184514', 'dies': '43270'}}
+2020-04-01 14:22:16,263///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:22:26,374///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.77', 'euro': '86.16', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '872792', 'recovered': '184526', 'dies': '43271'}}
+2020-04-01 14:26:43,866///INFO///getServerData/// - Server Data get successfully
+2020-04-01 14:26:43,872///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
