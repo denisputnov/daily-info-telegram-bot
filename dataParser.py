@@ -20,11 +20,11 @@ def checkEuroValue():
 def checkCoronaRussia():
 	coronaRusiiaFullPage = requests.get(config.CORONA_RUSSIA, headers=config.headers)
 	coronaRussiaSoup = bs(coronaRusiiaFullPage.content, 'html.parser')
-	coronaRussiaConvert = coronaRussiaSoup.findAll('td')
+	coronaRussiaConvert = coronaRussiaSoup.findAll('b')
 	# if __name__ == '__main__':
-		# print(coronaRussiaConvert)
-	return {'all': coronaRussiaConvert[2].text, 
-			'recovered': coronaRussiaConvert[4].text, 
+	# 	print(coronaRussiaConvert)
+	return {'all': coronaRussiaConvert[0].text, 
+			'recovered': coronaRussiaConvert[1].text, 
 			'dies': coronaRussiaConvert[3].text}
 
 
@@ -42,5 +42,5 @@ def checkCoronaWorld():
 if __name__ == '__main__':
 	# print(checkDollarValue())
 	# print(checkEuroValue())
-	print(checkCoronaWorld())
+	# print(checkCoronaWorld())
 	print(checkCoronaRussia())
