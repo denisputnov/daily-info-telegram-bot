@@ -22,7 +22,7 @@ logging.basicConfig(filename='botbody.log',
 
 def getServerData():
 	serverTime = str(int(time.strftime('%H')) - 1) + ':' + time.strftime('%M:%S (UTC +3)')
-	serverDate = time.strftime('%d:%m:20%y')
+	serverDate = time.strftime('%d.%m.20%y')
 	logging.info('Server Data get successfully')
 	return {'time': serverTime,
 			'date': serverDate
@@ -56,13 +56,12 @@ def getNewData():
 def reloadData():
 	global dataDict
 	while True:
-		if (time.strftime('%M')[-1] == '5' or time.strftime('%M')[-1] == '0') and time.strftime('%S')[-2] == '5':
-			serverTimeNow = getServerData()['time']
-			getNewData()
-			print(f'\n{serverTimeNow} - New data was taken successfully.\n' )
-			logging.info('New data was taker successfully  - ' + str(dataDict))
-		else:
-			time.sleep(9)
+		time.sleep(300)
+		serverTimeNow = getServerData()['time']
+		getNewData()
+		print(f'\n{serverTimeNow} - New data was taken successfully.\n' )
+		logging.info('New data was taker successfully  - ' + str(dataDict))
+
 
 dataDict = getNewData()
 # bot body
@@ -82,7 +81,7 @@ def sendWelcomeMessage(message):
 
 	bot.send_message(message.chat.id, 'Добро пожаловать, {0.first_name}.\nЯ - <b>{1.first_name}</b> - бот для учета важной информации на день.\n\
 		\nКаждый день в 8:00 по МСК (UTC +3) я буду отправлять тебе курс доллара и евро по отношению к рублю, а также новую информацию о COVID-19.\n\
-		\nЕсли хочешь узнать обновлённую информацию, то просто напиши команду <b><i>/info</i></b> и я достану самую актуальную на запрашиваемый момент информацию.\
+		\nЕсли хочешь узнать обновлённую информацию, то напиши команду <b><i>/info</i></b> и я достану самую актуальную на запрашиваемый момент информацию.\
 	 	'.format(message.from_user, bot.get_me()), parse_mode='html')
 
 

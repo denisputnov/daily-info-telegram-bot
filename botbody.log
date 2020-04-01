@@ -2095,3 +2095,97 @@ Now it's started successfully.
 2020-04-01 00:15:52,776///INFO///getServerData/// - Server Data get successfully
 2020-04-01 00:16:22,693///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.57', 'euro': '86.49', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846281', 'recovered': '176545', 'dies': '41486'}}
 2020-04-01 00:16:22,693///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.57', 'euro': '86.49', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '846281', 'recovered': '176545', 'dies': '41486'}}
+2020-04-01 13:13:33,951///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.86', 'euro': '86.26', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '861295', 'recovered': '178668', 'dies': '42387'}}
+2020-04-01 13:13:34,034///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:13:34,037///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-01 13:13:37,713///ERROR///run/// - ConnectTimeout occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0499AB50>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 161, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.VerifiedHTTPSConnection object at 0x0499AB50>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0499AB50>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0499AB50>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+2020-04-01 13:14:39,485///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.86', 'euro': '86.25', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '861306', 'recovered': '178668', 'dies': '42387'}}
+2020-04-01 13:14:39,492///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:14:39,494///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-01 13:14:40,119///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:14:40,119///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:14:40,119///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:14:40,119///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:14:40,119///INFO///sendInfoNow/// - 869036799 used /info command now
+2020-04-01 13:14:40,121///INFO///sendInfoNow/// - 869036799 used /info command now
+2020-04-01 13:16:14,191///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:16:14,192///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:16:14,192///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 13:16:54,641///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:16:54,641///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:17:06,417///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:17:06,417///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:18:27,655///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:18:27,657///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-01 13:18:33,814///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:18:33,814///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:18:33,815///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-01 13:19:39,496///INFO///getServerData/// - Server Data get successfully
+2020-04-01 13:19:47,464///INFO///getNewData/// - New Parse Data was taken{'dollar': '78.96', 'euro': '86.30', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862495', 'recovered': '179108', 'dies': '42510'}}
+2020-04-01 13:19:47,465///INFO///reloadData/// - New data was taker successfully  - {'dollar': '78.96', 'euro': '86.30', 'coronaRus': {'all': '2337', 'recovered': '121', 'dies': '17'}, 'coronaWorld': {'all': '862495', 'recovered': '179108', 'dies': '42510'}}
