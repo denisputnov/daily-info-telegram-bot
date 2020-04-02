@@ -2,12 +2,15 @@
 
 > Telegram interface for cheching dollar and euro course to ruble and check COVID-19 situation in Russia and all over the world.</br>
 
+### Usage
+Find @pyInfoParserBot to use my bot [RU].
+
 ### Installation
 ``` cmd
 git clone https://github.com/grnbows/daily-info-telegram-bot.git
 ```
 
-### Usage 
+### Settings 
 In `config.py`:
 ```
 TOKEN = '1234567890:abcdefghijklmnopqrstuwxyzABCdefghijK # bot token from @BotFather

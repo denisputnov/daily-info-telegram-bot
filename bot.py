@@ -1,10 +1,10 @@
 # EN:
 # Telegram interface for checking dollar and euro course to ruble
-# and check COVID-19 situation in Russia and all over the world. (last function in work)
+# and check COVID-19 situation in Russia and all over the world.
 # 
 # RU:
 # Телеграмм бот для отслеживания курса доллара и евро к рублю
-# и проверки ситуации коронавируса в России и по всему миру. (Последняя функция в разработке)
+# и проверки ситуации коронавируса в России и по всему миру.
 # 
 # by grnbows
 
@@ -16,7 +16,11 @@ import threading
 import logging
 import schedule
 from pprint import pformat
+# from telebot import apihelper
 
+
+# PROXY = 'socks5h://148.72.209.6:57437'
+# apihelper.proxy = {'https': PROXY}
 
 logging.basicConfig(filename='botbody.log',
 					level=logging.INFO,
@@ -147,7 +151,7 @@ def sendEveryDayMessage():
 		logging.info('\n\n' + '#' * 30 + '\nNewsletter infos over\n' + '#' * 30 + '\n\n')
 
 
-	schedule.every().day.at("23:20").do(sendingOrg)
+	schedule.every().day.at("21:05").do(sendingOrg)
 
 	while True:
 		schedule.run_pending()
@@ -215,7 +219,7 @@ def subThePerson(message):
 		feedback = addUserToUsersList(message.chat.id)
 
 		if feedback == True:
-			bot.send_message(message.chat.id, 'Подписка на ежедневную рассылку успешна оформлена.\n\
+			bot.send_message(message.chat.id, 'Подписка на ежедневную рассылку успешно оформлена.\n\
 				\n<b><i>/unfollow</i></b> - отписаться.\n\
 				'.format(message.from_user, bot.get_me()), parse_mode='html')
 
