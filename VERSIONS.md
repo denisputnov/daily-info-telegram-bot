@@ -30,6 +30,11 @@ NEW: `config.py`, `ownParser.py`, added logging
 >Big update, new funcs, refactoring.
 NEW: user processing functions, daily mailing func, added `/help`, `/sub`, `/unfollow`, `/author`, `/donate` and `/report` commands. Parser refactoring (change resources), bug fix.
 
+`v0.5.2.1dev` - `c54a0ee54089eed3240b11d1a763f7caf8e01e5a`</br>
+>Parser refactoring, added versions list, bit changes in `bot.py`
+
+`v0.5.3dev` - `now`
+>NEW: func, that show subscribers amount. Added two buttons to /author command.
 
 ### Production
 Too early ;)

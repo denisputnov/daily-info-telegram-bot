@@ -16,6 +16,7 @@ import threading
 import logging
 import schedule
 from pprint import pformat
+from telebot import types
 # from telebot import apihelper
 
 
@@ -80,6 +81,10 @@ def getUsersList():
 	logging.info('Got the users list ' + str(usersList))
 	return usersList
 
+
+def getFollowersAmount():
+	usersList = getUsersList()
+	return len(usersList)
 
 
 def addUserToUsersList(messageFromUserId):
@@ -151,7 +156,7 @@ def sendEveryDayMessage():
 		logging.info('\n\n' + '#' * 30 + '\nNewsletter infos over\n' + '#' * 30 + '\n\n')
 
 
-	schedule.every().day.at("21:05").do(sendingOrg)
+	schedule.every().day.at("12:35").do(sendingOrg)
 
 	while True:
 		schedule.run_pending()
@@ -207,6 +212,7 @@ def sendHelpList(message):
 	else:
 		bot.send_message(message.chat.id, 'Бот не поддерживает работу в групповых чатах.\n\
 			\nФункция дорабатывается, разработчик у бота один. Прошу прощения за неудобства, скоро пофикшу,\nДенис')
+
 
 @bot.message_handler(commands=['записаться', 'регулярно', 'sub', 'subscribe'])
 def subThePerson(message):
@@ -275,10 +281,16 @@ def sendReport(message):
 			\nФункция дорабатывается, разработчик у бота один. Прошу прощения за неудобства, скоро пофикшу,\nДенис')
 
 
-# add command that'l show author
 @bot.message_handler(commands=['автор', 'grnbows', 'разработчик', 'программист', 'author'])
 def sendAuthorInfo(message):
 	serverTimeNow = getServerData()['time']
+
+	amountOfUsers = getFollowersAmount()
+
+	markup = types.InlineKeyboardMarkup()
+	buttonVk = types.InlineKeyboardButton(text='Вконтакте', url='https://vk.com/grnbows')
+	buttonInsta = types.InlineKeyboardButton(text='Instagram', url='https://www.instagram.com/grnbows/')
+	markup.add(buttonVk, buttonInsta)
 
 	print(f'{serverTimeNow}: ' + str(message.from_user.id) + ' used /author command now')
 	logging.info(str(message.from_user.id) + ' used /author command now')
@@ -287,7 +299,7 @@ def sendAuthorInfo(message):
 		\nСо мной можно связаться в Telegram или в других социальных сетях, например ВКонтакте или Instagram. Везде тег такой же - @grnbows.\n\
 		\nСпасибо за проявленный интерес к этому проекту, Вы позволяете мне развиваться в программировании дальше.\n\
 		\n/donate - для моих реквизитов.\n\
-		\nПоследняя актуальная версия бота: {config.__BOT_VESION}' )
+		\nПодписчиков в системе: {amountOfUsers}\nПоследняя актуальная версия бота: {config.__BOT_VESION}', reply_markup = markup)
 
 
 @bot.message_handler(commands=['донат', 'помочь', 'donate', 'реквизиты'])
@@ -302,7 +314,6 @@ def sendRequisites(message):
 	bot.send_sticker(message.chat.id, open('images/donate.tgs', 'rb'))
 
 
-# info command
 @bot.message_handler(commands=['info', 'инфо', 'информация'])
 def sendInfoNow(message):
 	if message.chat.type == 'private':

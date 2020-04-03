@@ -7520,3 +7520,227 @@ Now it's started successfully.
 2020-04-02 23:52:31,241///INFO///sendReport/// - 587125336 used /report command now
 2020-04-02 23:53:07,037///INFO///getServerData/// - Server Data get successfully
 2020-04-02 23:53:08,266///INFO///sendReport/// - 904816986 used /report command now
+2020-04-03 12:28:09,414///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:28:09,423///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 12:28:10,004///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:28:10,004///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:28:10,006///INFO///sendInfoNow/// - 995432094 used /info command now
+2020-04-03 12:29:27,040///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:29:27,048///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 12:29:27,621///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:29:27,622///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:29:27,623///INFO///sendInfoNow/// - 995432094 used /info command now
+2020-04-03 12:29:39,588///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:29:40,220///INFO///sendReport/// - 587125336 used /report command now
+2020-04-03 12:32:30,115///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:32:37,712///INFO///sendHelpList/// - 587125336 used /help command now
+2020-04-03 12:34:02,742///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:34:02,742///INFO///sendHelpList/// - 587125336 used /help command now
+2020-04-03 12:34:27,051///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:34:43,226///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.06', 'euro': '83.22', 'coronaRus': {'all': '3549', 'recovered': '235', 'dies': '30'}, 'coronaWorld': {'all': '1018536', 'recovered': '213499', 'dies': '53280'}}
+2020-04-03 12:35:00,277///INFO///run/// - Running job Every 1 day at 12:35:00 do sendingOrg() (last run: [never], next run: 2020-04-03 12:35:00)
+2020-04-03 12:35:00,282///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 12:35:00,282///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:00,282///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:00,282///INFO///sendNow/// - 869036799 took everyday info message now
+2020-04-03 12:35:01,237///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:01,237///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:01,237///INFO///sendNow/// - 695122832 took everyday info message now
+2020-04-03 12:35:01,493///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:01,493///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:01,494///INFO///sendNow/// - 464020229 took everyday info message now
+2020-04-03 12:35:01,851///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:01,851///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:01,851///INFO///sendNow/// - 779494443 took everyday info message now
+2020-04-03 12:35:03,285///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:03,286///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:03,286///INFO///sendNow/// - 587125336 took everyday info message now
+2020-04-03 12:35:03,621///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:03,621///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:03,621///INFO///sendNow/// - 815925451 took everyday info message now
+2020-04-03 12:35:03,900///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:03,901///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:03,901///INFO///sendNow/// - 995432094 took everyday info message now
+2020-04-03 12:35:04,411///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:04,412///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:04,412///INFO///sendNow/// - 787728765 took everyday info message now
+2020-04-03 12:35:05,757///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:05,757///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:05,758///INFO///sendNow/// - 904816986 took everyday info message now
+2020-04-03 12:35:05,986///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:35:05,988///INFO///sendingOrg/// - 
+
+##############################
+Newsletter infos over
+##############################
+
+
+2020-04-03 12:39:43,227///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:46:27,316///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:46:27,322///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 12:46:36,240///INFO///getServerData/// - Server Data get successfully
+2020-04-03 12:46:36,241///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 12:46:36,242///INFO///sendAuthorInfo/// - 587125336 used /author command now
+2020-04-03 13:09:48,690///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:09:48,697///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 13:09:54,212///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:09:54,213///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 13:09:54,299///ERROR///run/// - NameError occurred, args=("name 'types' is not defined",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 289, in sendAuthorInfo
+    markup = types.InlineKeyboardMarkup()
+NameError: name 'types' is not defined
+
+2020-04-03 13:16:19,635///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:18:30,367///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:18:30,374///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 13:18:39,503///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:18:39,505///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 13:18:39,505///INFO///sendAuthorInfo/// - 587125336 used /author command now
+2020-04-03 13:19:02,424///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:19:02,425///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 13:19:02,426///INFO///sendAuthorInfo/// - 695122832 used /author command now
+2020-04-03 13:23:30,377///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:23:44,032///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.03', 'euro': '83.13', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1021000', 'recovered': '214803', 'dies': '53457'}}
+2020-04-03 13:28:44,034///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:28:53,221///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.00', 'euro': '83.15', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1021037', 'recovered': '214803', 'dies': '53458'}}
+2020-04-03 13:33:53,222///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:34:01,114///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.95', 'euro': '83.13', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1021037', 'recovered': '214803', 'dies': '53458'}}
+2020-04-03 13:39:01,116///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:39:10,553///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.05', 'euro': '83.21', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1021043', 'recovered': '214803', 'dies': '53458'}}
+2020-04-03 13:44:10,554///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:44:18,407///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.84', 'euro': '82.99', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1021043', 'recovered': '214803', 'dies': '53458'}}
+2020-04-03 13:49:18,408///INFO///getServerData/// - Server Data get successfully
+2020-04-03 13:49:30,081///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.79', 'euro': '82.96', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1026688', 'recovered': '218573', 'dies': '54045'}}
+2020-04-03 13:54:30,082///INFO///getServerData/// - Server Data get successfully
+2020-04-03 15:33:07,764///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796269&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 342, in connect
+    self._tunnel()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 894, in _tunnel
+    (version, code, message) = response._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796269&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796269&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+2020-04-03 15:42:16,492///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.74', 'euro': '82.87', 'coronaRus': {'all': '4146', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1026715', 'recovered': '218586', 'dies': '54045'}}
+2020-04-03 16:23:26,807///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:23:26,814///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 16:23:27,558///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:23:27,558///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:23:27,558///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-03 16:23:57,869///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:23:57,869///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:23:57,869///INFO///sendInfoNow/// - 995432094 used /info command now
+2020-04-03 16:24:56,955///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:24:56,956///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:24:56,957///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-03 16:25:21,224///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:25:21,224///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:25:21,225///INFO///sendInfoNow/// - 995432094 used /info command now
+2020-04-03 16:25:31,055///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:25:31,056///INFO///sendHelpList/// - 995432094 used /help command now
+2020-04-03 16:25:37,410///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:25:37,412///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 16:25:37,413///INFO///sendAuthorInfo/// - 995432094 used /author command now
+2020-04-03 16:28:26,816///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:28:41,447///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.68', 'euro': '82.80', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034086', 'recovered': '220023', 'dies': '54463'}}
+2020-04-03 16:31:14,410///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:31:14,412///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 16:31:14,412///INFO///sendAuthorInfo/// - 587125336 used /author command now
+2020-04-03 16:33:41,448///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:33:55,974///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.82', 'euro': '82.83', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034098', 'recovered': '220023', 'dies': '54463'}}
+2020-04-03 16:38:55,976///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:39:26,467///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.94', 'euro': '83.04', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034098', 'recovered': '220023', 'dies': '54464'}}
+2020-04-03 16:39:32,595///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:39:32,596///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 16:39:32,597///INFO///sendAuthorInfo/// - 587125336 used /author command now
+2020-04-03 16:39:46,423///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:39:46,423///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:39:46,423///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-03 16:44:26,468///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:44:42,565///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.71', 'euro': '82.73', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034116', 'recovered': '220023', 'dies': '54465'}}
+2020-04-03 16:49:42,566///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:50:02,052///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.76', 'euro': '82.82', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034163', 'recovered': '220025', 'dies': '54465'}}
+2020-04-03 16:55:02,053///INFO///getServerData/// - Server Data get successfully
+2020-04-03 16:55:13,340///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.73', 'euro': '82.79', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034163', 'recovered': '220025', 'dies': '54465'}}
+2020-04-03 17:00:13,341///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:00:25,768///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.87', 'euro': '82.84', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034170', 'recovered': '220025', 'dies': '54465'}}
+2020-04-03 17:05:25,770///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:05:37,166///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.78', 'euro': '82.77', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1034215', 'recovered': '220050', 'dies': '54465'}}
+2020-04-03 17:10:37,167///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:10:46,702///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.95', 'euro': '82.98', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1039157', 'recovered': '220076', 'dies': '55149'}}
+2020-04-03 17:15:46,704///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:15:57,527///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.78', 'euro': '82.83', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1039158', 'recovered': '220076', 'dies': '55163'}}
+2020-04-03 17:20:57,529///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:21:30,037///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.82', 'euro': '82.94', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1039158', 'recovered': '220089', 'dies': '55163'}}
