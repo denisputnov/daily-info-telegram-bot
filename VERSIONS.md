@@ -33,8 +33,11 @@ NEW: user processing functions, daily mailing func, added `/help`, `/sub`, `/unf
 `v0.5.2.1dev` - `c54a0ee54089eed3240b11d1a763f7caf8e01e5a`</br>
 >Parser refactoring, added versions list, bit changes in `bot.py`
 
-`v0.5.3dev` - `now`
+`v0.5.3dev` - `dd58597c7e5a5addd664a5d288dbdbd428690f1d`</br>
 >NEW: func, that show subscribers amount. Added two buttons to /author command.
+
+`v0.6dev` - `now`</br>
+>NEW: added `reformate` function in `dataParcer.py`, added `/sms`, `/mail_help`, `/mail_test` and `/mail_start` commands for starting mailing. Bug fix. 
 
 ### Production
 Too early ;)

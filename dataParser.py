@@ -3,6 +3,18 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 
+def reformate(value):
+	value = str(value)
+	if len(value) > 9:
+		return value[0:len(value) - 9] + '.' + value[len(value) - 9:len(value) - 6] + '.' + value[len(value) - 6:len(value) - 3] + '.' + value[len(value) - 3: len(value)]
+	elif len(value) > 6:
+		return value[0:len(value) - 6] + '.' + value[len(value) - 6:len(value) - 3] + '.' + value[len(value) - 3:len(value)]
+	elif len(value) > 3:
+		return value[0:len(value) - 3] + '.' + value[len(value) - 3:len(value)]
+	elif len(value) > 0:
+		return value
+
+
 def checkDollarValue():
 	dollarFullPage = requests.get(config.DOLLAR_RUB, headers=config.headers)
 	dollarSoup = bs(dollarFullPage.content, 'html.parser')
@@ -23,9 +35,9 @@ def checkCoronaRussia():
 	coronaRussiaConvert = coronaRussiaSoup.findAll('b')
 	# if __name__ == '__main__':
 	# 	print(coronaRussiaConvert)
-	return {'all': coronaRussiaConvert[0].text, 
-			'recovered': coronaRussiaConvert[1].text, 
-			'dies': coronaRussiaConvert[3].text}
+	return {'all': reformate(coronaRussiaConvert[0].text), 
+			'recovered': reformate(coronaRussiaConvert[1].text), 
+			'dies': reformate(coronaRussiaConvert[3].text)}
 
 
 def checkCoronaWorld():
@@ -34,13 +46,15 @@ def checkCoronaWorld():
 	coronaWorldConvert = coronaWorldSoup.findAll('div', {'class': 'maincounter-number'})
 	# if __name__ == '__main__':
 		# print(coronaWorldConvert[0].text.replace('\n',''))
-	return {'all': coronaWorldConvert[0].text.replace(' ','').replace('\n','').replace(',',''), 
-			'recovered': coronaWorldConvert[2].text.replace(' ','').replace('\n','').replace(',',''), 
-			'dies': coronaWorldConvert[1].text.replace(' ','').replace('\n','').replace(',','')}
+	return {'all': reformate(coronaWorldConvert[0].text.replace(' ','').replace('\n','').replace(',','')), 
+			'recovered': reformate(coronaWorldConvert[2].text.replace(' ','').replace('\n','').replace(',','')), 
+			'dies': reformate(coronaWorldConvert[1].text.replace(' ','').replace('\n','').replace(',',''))}
 
 
 if __name__ == '__main__':
 	# print(checkDollarValue())
 	# print(checkEuroValue())
 	# print(checkCoronaWorld())
-	print(checkCoronaRussia())
+	# print(checkCoronaRussia())
+	while True:
+		print(reformate(input()))

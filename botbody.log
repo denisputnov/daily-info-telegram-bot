@@ -7744,3 +7744,1421 @@ Now it's started successfully.
 2020-04-03 17:15:57,527///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.78', 'euro': '82.83', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1039158', 'recovered': '220076', 'dies': '55163'}}
 2020-04-03 17:20:57,529///INFO///getServerData/// - Server Data get successfully
 2020-04-03 17:21:30,037///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.82', 'euro': '82.94', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1039158', 'recovered': '220089', 'dies': '55163'}}
+2020-04-03 17:55:48,658///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:55:48,664///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 17:55:52,434///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:55:52,434///INFO///getServerData/// - Server Data get successfully
+2020-04-03 17:55:52,435///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-03 18:01:47,398///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:01:47,406///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 18:05:29,781///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:07:07,325///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:07:07,334///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 18:08:42,370///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:08:42,377///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 18:10:17,612///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:10:17,618///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 18:15:17,621///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:15:43,786///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.80', 'euro': '82.86', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1040664', 'recovered': '222240', 'dies': '55191'}}
+2020-04-03 18:20:43,788///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:21:01,102///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.91', 'euro': '83.02', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1040664', 'recovered': '222240', 'dies': '55191'}}
+2020-04-03 18:22:43,763///INFO///getServerData/// - Server Data get successfully
+2020-04-03 18:22:43,770///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 20:10:14,140///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:10:14,148///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 20:10:14,901///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:10:14,901///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:10:14,901///INFO///sendInfoNow/// - 815925451 used /info command now
+2020-04-03 20:11:16,561///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:11:16,561///INFO///sendHelpList/// - 464020229 used /help command now
+2020-04-03 20:13:38,558///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:13:38,558///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:13:38,562///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-03 20:14:40,610///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:14:40,617///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 20:19:40,619///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:00,872///INFO///run/// - Running job Every 1 day at 20:20:00 do sendingOrg() (last run: [never], next run: 2020-04-03 20:20:00)
+2020-04-03 20:20:00,876///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 20:20:00,876///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:00,876///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:00,876///INFO///sendNow/// - 869036799 took everyday info message now
+2020-04-03 20:20:03,462///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:03,462///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:03,469///INFO///sendNow/// - 695122832 took everyday info message now
+2020-04-03 20:20:03,789///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:03,789///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:03,796///INFO///sendNow/// - 464020229 took everyday info message now
+2020-04-03 20:20:03,807///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.15', 'euro': '83.19', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1063933', 'recovered': '225622', 'dies': '56619'}}
+2020-04-03 20:20:04,794///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:04,794///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:04,794///INFO///sendNow/// - 779494443 took everyday info message now
+2020-04-03 20:20:05,090///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:05,090///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:05,090///INFO///sendNow/// - 587125336 took everyday info message now
+2020-04-03 20:20:07,622///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:07,622///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:07,622///INFO///sendNow/// - 815925451 took everyday info message now
+2020-04-03 20:20:07,899///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:07,899///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:07,901///INFO///sendNow/// - 995432094 took everyday info message now
+2020-04-03 20:20:08,177///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:08,177///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:08,177///INFO///sendNow/// - 787728765 took everyday info message now
+2020-04-03 20:20:08,477///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:08,479///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:08,479///INFO///sendNow/// - 904816986 took everyday info message now
+2020-04-03 20:20:08,756///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:20:08,758///INFO///sendingOrg/// - 
+
+##############################
+Newsletter infos over
+##############################
+
+
+2020-04-03 20:25:03,807///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:25:26,950///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.16', 'euro': '83.21', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1064291', 'recovered': '225960', 'dies': '56634'}}
+2020-04-03 20:30:26,951///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:30:40,507///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.15', 'euro': '83.25', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1064510', 'recovered': '225960', 'dies': '56659'}}
+2020-04-03 20:35:40,508///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:36:06,382///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.07', 'euro': '83.20', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1067324', 'recovered': '226036', 'dies': '56728'}}
+2020-04-03 20:41:06,383///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:41:17,088///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.90', 'euro': '83.02', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1067324', 'recovered': '226038', 'dies': '56728'}}
+2020-04-03 20:46:17,089///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:46:32,127///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.92', 'euro': '83.01', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1067748', 'recovered': '226038', 'dies': '56752'}}
+2020-04-03 20:51:32,129///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:51:47,146///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.94', 'euro': '83.20', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1067748', 'recovered': '226039', 'dies': '56752'}}
+2020-04-03 20:53:55,785///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:53:55,785///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:53:55,785///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-03 20:56:47,148///INFO///getServerData/// - Server Data get successfully
+2020-04-03 20:57:16,038///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.13', 'euro': '83.16', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1068522', 'recovered': '226039', 'dies': '56794'}}
+2020-04-03 21:02:16,039///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:02:35,466///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.15', 'euro': '83.23', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1072881', 'recovered': '226052', 'dies': '56904'}}
+2020-04-03 21:03:14,488///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:03:14,490///INFO///sendWelcomeMessage/// - 1116002959 used /start command now
+2020-04-03 21:03:17,878///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:03:17,878///INFO///sendHelpList/// - 1116002959 used /help command now
+2020-04-03 21:03:20,722///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:03:20,722///INFO///subThePerson/// - 1116002959 used /sub command now
+2020-04-03 21:03:20,723///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986']
+2020-04-03 21:03:21,227///INFO///subThePerson/// - 1116002959subscribed successfully
+2020-04-03 21:03:22,745///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:03:22,745///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:03:22,745///INFO///sendInfoNow/// - 1116002959 used /info command now
+2020-04-03 21:04:34,466///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:04:34,470///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986', '1116002959']
+2020-04-03 21:04:34,470///INFO///sendAuthorInfo/// - 587125336 used /author command now
+2020-04-03 21:07:35,468///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:07:49,128///INFO///reloadData/// - New data was taker successfully  - {'dollar': '77.02', 'euro': '83.02', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074053', 'recovered': '226054', 'dies': '56975'}}
+2020-04-03 21:12:49,130///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:13:17,638///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.97', 'euro': '83.02', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074253', 'recovered': '226054', 'dies': '56987'}}
+2020-04-03 21:18:17,639///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:18:51,018///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.90', 'euro': '82.94', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074253', 'recovered': '226054', 'dies': '56987'}}
+2020-04-03 21:23:51,019///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:24:16,622///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.93', 'euro': '82.99', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074290', 'recovered': '226062', 'dies': '56987'}}
+2020-04-03 21:29:16,623///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:29:38,752///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.91', 'euro': '83.03', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074290', 'recovered': '226062', 'dies': '56987'}}
+2020-04-03 21:34:38,753///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:34:51,276///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.91', 'euro': '83.02', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074290', 'recovered': '226062', 'dies': '56987'}}
+2020-04-03 21:39:51,277///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:40:18,265///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.76', 'euro': '82.86', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074290', 'recovered': '226062', 'dies': '56989'}}
+2020-04-03 21:45:18,266///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:45:41,489///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.78', 'euro': '82.76', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074290', 'recovered': '226063', 'dies': '56989'}}
+2020-04-03 21:50:41,490///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:50:54,419///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.67', 'euro': '82.77', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074295', 'recovered': '226063', 'dies': '56989'}}
+2020-04-03 21:55:54,420///INFO///getServerData/// - Server Data get successfully
+2020-04-03 21:56:03,686///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.71', 'euro': '82.86', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1074487', 'recovered': '227656', 'dies': '58109'}}
+2020-04-03 21:58:23,293///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:00:06,119///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:00:06,128///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 22:00:25,463///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:00:25,463///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:00:25,463///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-03 22:00:41,859///INFO///sendMailHelp/// - Command /help called
+2020-04-03 22:01:13,400///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:01:13,489///ERROR///run/// - TypeError occurred, args=("a bytes-like object is required, not 'str'",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 458, in addNewMailText
+    writeNewText(message.text[10:len(message.text)])
+  File "bot.py", line 371, in writeNewText
+    text = file.write(formatedMessageText)
+TypeError: a bytes-like object is required, not 'str'
+
+2020-04-03 22:03:30,632///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:03:30,642///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 22:03:48,745///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:03:48,747///ERROR///run/// - TypeError occurred, args=("a bytes-like object is required, not 'str'",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 458, in addNewMailText
+    writeNewText(message.text[10:len(message.text)])
+  File "bot.py", line 371, in writeNewText
+    text = file.write(str(formatedMessageText))
+TypeError: a bytes-like object is required, not 'str'
+
+2020-04-03 22:05:20,099///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:05:20,108///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-03 22:05:32,022///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:05:32,025///ERROR///run/// - TypeError occurred, args=("a bytes-like object is required, not 'str'",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 458, in addNewMailText
+    writeNewText(str(message.text)[10:len(message.text)])
+  File "bot.py", line 371, in writeNewText
+    text = file.write(formatedMessageText)
+TypeError: a bytes-like object is required, not 'str'
+
+2020-04-03 22:10:20,110///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:10:28,802///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.73', 'euro': '82.85', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1079978', 'recovered': '227668', 'dies': '58110'}}
+2020-04-03 22:15:28,803///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:15:37,864///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.76', 'euro': '82.91', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1080376', 'recovered': '227668', 'dies': '58110'}}
+2020-04-03 22:20:37,865///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:20:54,164///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.71', 'euro': '82.91', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1080376', 'recovered': '227668', 'dies': '58110'}}
+2020-04-03 22:25:54,166///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:26:06,409///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.76', 'euro': '82.94', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1080846', 'recovered': '227685', 'dies': '58120'}}
+2020-04-03 22:31:06,410///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:31:20,107///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.68', 'euro': '82.82', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1081147', 'recovered': '227716', 'dies': '58127'}}
+2020-04-03 22:36:20,108///INFO///getServerData/// - Server Data get successfully
+2020-04-03 22:36:29,467///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.64', 'euro': '82.84', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1081277', 'recovered': '227734', 'dies': '58136'}}
+2020-04-04 01:13:35,627///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:35,636///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 01:13:36,293///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:36,293///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:36,294///INFO///sendInfoNow/// - 869036799 used /info command now
+2020-04-04 01:13:37,032///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:37,032///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:37,032///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 01:13:37,184///INFO///sendMailHelp/// - Command /help called
+2020-04-04 01:13:37,184///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:37,184///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:37,185///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 01:13:37,265///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:37,266///INFO///sendWelcomeMessage/// - 961419006 used /start command now
+2020-04-04 01:13:52,893///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:52,893///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:13:52,893///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 01:14:01,446///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:14:01,446///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:14:01,447///INFO///sendInfoNow/// - 961419006 used /info command now
+2020-04-04 01:14:20,172///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:14:20,172///INFO///sendHelpList/// - 961419006 used /help command now
+2020-04-04 01:14:37,666///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:14:37,667///INFO///subThePerson/// - 961419006 used /sub command now
+2020-04-04 01:14:37,668///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986', '1116002959']
+2020-04-04 01:14:39,005///INFO///subThePerson/// - 961419006subscribed successfully
+2020-04-04 01:15:40,118///INFO///getServerData/// - Server Data get successfully
+2020-04-04 01:15:40,129///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986', '1116002959', '961419006']
+2020-04-04 01:15:40,130///INFO///sendAuthorInfo/// - 961419006 used /author command now
+2020-04-04 12:18:09,393///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:09,404///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 12:18:10,012///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:10,013///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:10,014///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:10,014///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:10,020///INFO///sendInfoNow/// - 1116002959 used /info command now
+2020-04-04 12:18:10,026///INFO///sendInfoNow/// - 961419006 used /info command now
+2020-04-04 12:18:10,526///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:10,526///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:18:10,527///INFO///sendInfoNow/// - 464020229 used /info command now
+2020-04-04 12:19:03,654///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:19:03,655///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:19:15,181///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 12:20:35,819///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:20:35,828///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 12:21:44,119///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:21:44,120///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:21:44,123///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 12:25:00,014///INFO///run/// - Running job Every 1 day at 12:25:00 do sendingOrg() (last run: [never], next run: 2020-04-04 12:25:00)
+2020-04-04 12:25:00,059///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986', '1116002959', '961419006']
+2020-04-04 12:25:00,060///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:00,060///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:00,061///INFO///sendNow/// - 869036799 took everyday info message now
+2020-04-04 12:25:01,038///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,039///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,040///INFO///sendNow/// - 695122832 took everyday info message now
+2020-04-04 12:25:01,347///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,348///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,349///INFO///sendNow/// - 464020229 took everyday info message now
+2020-04-04 12:25:01,755///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,756///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,757///INFO///sendNow/// - 779494443 took everyday info message now
+2020-04-04 12:25:01,974///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,975///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:01,976///INFO///sendNow/// - 587125336 took everyday info message now
+2020-04-04 12:25:02,370///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,370///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,371///INFO///sendNow/// - 815925451 took everyday info message now
+2020-04-04 12:25:02,575///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,575///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,576///INFO///sendNow/// - 995432094 took everyday info message now
+2020-04-04 12:25:02,760///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,761///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,761///INFO///sendNow/// - 787728765 took everyday info message now
+2020-04-04 12:25:02,983///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,984///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:02,985///INFO///sendNow/// - 904816986 took everyday info message now
+2020-04-04 12:25:03,200///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:03,201///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:03,202///INFO///sendNow/// - 1116002959 took everyday info message now
+2020-04-04 12:25:04,303///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:04,304///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:04,305///INFO///sendNow/// - 961419006 took everyday info message now
+2020-04-04 12:25:04,494///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:04,502///INFO///sendingOrg/// - 
+
+##############################
+Newsletter infos over
+##############################
+
+
+2020-04-04 12:25:35,830///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:25:50,333///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1119702', 'recovered': '229338', 'dies': '59245'}}
+2020-04-04 12:30:50,335///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:31:02,685///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4149', 'recovered': '281', 'dies': '34'}, 'coronaWorld': {'all': '1119702', 'recovered': '229338', 'dies': '59245'}}
+2020-04-04 12:36:02,686///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:36:13,663///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1119702', 'recovered': '229338', 'dies': '59245'}}
+2020-04-04 12:41:13,665///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:41:29,345///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1119733', 'recovered': '229338', 'dies': '59245'}}
+2020-04-04 12:46:29,347///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:46:41,346///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1119744', 'recovered': '229338', 'dies': '59245'}}
+2020-04-04 12:51:41,347///INFO///getServerData/// - Server Data get successfully
+2020-04-04 12:51:53,652///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1119744', 'recovered': '229338', 'dies': '59246'}}
+2020-04-04 12:56:53,653///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:50:29,678///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1119801', 'recovered': '229349', 'dies': '59247'}}
+2020-04-04 13:53:27,353///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:53:27,363///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 13:54:28,958///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:54:28,962///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-04 13:54:32,852///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getMe (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 342, in connect
+    self._tunnel()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 894, in _tunnel
+    (version, code, message) = response._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getMe (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 199, in sendWelcomeMessage
+    '.format(message.from_user, bot.get_me()), parse_mode='html')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 481, in get_me
+    result = apihelper.get_me(self.token)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 97, in get_me
+    return _make_request(token, method_url)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getMe (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+2020-04-04 13:55:09,375///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:55:09,385///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 13:55:13,415///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:55:13,417///INFO///sendWelcomeMessage/// - 587125336 used /start command now
+2020-04-04 13:55:24,827///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:55:24,828///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:55:24,831///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 13:56:36,726///ERROR///run/// - ReadTimeout occurred, args=(ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 330, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+2020-04-04 13:58:37,016///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:58:37,027///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 13:58:55,212///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:58:55,215///INFO///sendHelpList/// - 587125336 used /help command now
+2020-04-04 13:59:06,795///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:59:06,799///INFO///subThePerson/// - 587125336 used /sub command now
+2020-04-04 13:59:06,802///INFO///getUsersList/// - Got the users list ['869036799', '695122832', '464020229', '779494443', '587125336', '815925451', '995432094', '787728765', '904816986', '1116002959', '961419006']
+2020-04-04 13:59:28,601///INFO///getServerData/// - Server Data get successfully
+2020-04-04 13:59:30,874///INFO///sendReport/// - 587125336 used /report command now
+2020-04-04 14:03:37,029///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:03:53,272///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130089', 'recovered': '234023', 'dies': '60112'}}
+2020-04-04 14:05:09,086///INFO///sendMailHelp/// - /mail_help used now
+2020-04-04 14:06:01,926///INFO///sendTestMail/// - /mail_help used now
+2020-04-04 14:06:02,953///ERROR///run/// - NameError occurred, args=("name 'markup' is not defined",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 399, in sendTestMail
+    bot.send_message(config.ADMIN_ID, mailText.format(message.from_user, bot.get_me()), parse_mode='html', reply_markup = markup)
+NameError: name 'markup' is not defined
+
+2020-04-04 14:13:45,511///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:13:45,519///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 14:14:39,645///INFO///sendTestMail/// - /mail_help used now
+2020-04-04 14:18:45,522///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:19:03,593///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130547', 'recovered': '234069', 'dies': '60123'}}
+2020-04-04 14:22:02,558///ERROR///run/// - ReadTimeout occurred, args=(ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 330, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+2020-04-04 14:24:03,594///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:24:46,598///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130575', 'recovered': '234079', 'dies': '60124'}}
+2020-04-04 14:29:46,599///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:30:02,360///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130575', 'recovered': '234079', 'dies': '60124'}}
+2020-04-04 14:35:02,361///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:35:40,312///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130576', 'recovered': '235880', 'dies': '60146'}}
+2020-04-04 14:40:40,313///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:40:56,729///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130591', 'recovered': '235891', 'dies': '60147'}}
+2020-04-04 14:45:56,731///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:46:16,119///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1130664', 'recovered': '235902', 'dies': '60147'}}
+2020-04-04 14:50:30,084///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:50:30,096///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 14:50:35,667///INFO///sendTestMail/// - /mail_help used now
+2020-04-04 14:50:37,160///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: IMAGE_PROCESS_FAILED"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 402, in sendTestMail
+    bot.send_photo(config.ADMIN_ID, mailPhoto, caption=mailText.format(message.from_user, bot.get_me()), parse_mode='html', reply_markup = mailButtons)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 638, in send_photo
+    apihelper.send_photo(self.token, chat_id, photo, caption, reply_to_message_id, reply_markup,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 276, in send_photo
+    return _make_request(token, method_url, params=payload, files=files, method='post')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: IMAGE_PROCESS_FAILED"}']
+
+2020-04-04 14:50:37,163///ERROR///__threaded_polling/// - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: IMAGE_PROCESS_FAILED"}']
+2020-04-04 14:50:45,473///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:50:48,272///INFO///sendReport/// - 587125336 used /report command now
+2020-04-04 14:53:33,409///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:53:33,418///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 14:53:36,286///INFO///sendTestMail/// - /mail_help used now
+2020-04-04 14:56:52,908///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:56:52,909///INFO///getServerData/// - Server Data get successfully
+2020-04-04 14:56:52,912///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 14:58:33,419///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:01:51,006///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:01:51,016///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:02:52,485///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:02:52,496///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:03:16,418///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:03:23,521///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:03:23,527///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:03:23,527///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:03:23,529///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:03:23,533///ERROR///run/// - NameError occurred, args=("name 'message' is not defined",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 437, in sendMailForAll
+    mailOrg()
+  File "bot.py", line 392, in mailOrg
+    sendMailNow(usersList[i])
+  File "bot.py", line 382, in sendMailNow
+    caption=mailText.format(message.from_user, bot.get_me()),
+NameError: name 'message' is not defined
+
+2020-04-04 15:06:16,267///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:09:11,757///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:09:11,768///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:09:49,711///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:09:55,825///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getMe (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 386, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\ssl_.py", line 370, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+socket.timeout: _ssl.c:1091: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getMe (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 426, in sendTestMail
+    caption=mailText.format(message.from_user, bot.get_me()),
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 481, in get_me
+    result = apihelper.get_me(self.token)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 97, in get_me
+    return _make_request(token, method_url)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getMe (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1091: The handshake operation timed out')))
+
+2020-04-04 15:11:40,291///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:14:12,419///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:14:23,085///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:14:40,456///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:14:40,461///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:14:40,461///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:14:40,462///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:14:40,467///ERROR///run/// - NameError occurred, args=("name 'message' is not defined",)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 437, in sendMailForAll
+    mailOrg()
+  File "bot.py", line 392, in mailOrg
+    sendMailNow(usersList[i])
+  File "bot.py", line 382, in sendMailNow
+    caption=mailText.format(message.from_user, bot.get_me()),
+NameError: name 'message' is not defined
+
+2020-04-04 15:21:38,043///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:21:38,053///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:21:41,944///ERROR///run/// - ConnectTimeout occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0493CD48>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 161, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.VerifiedHTTPSConnection object at 0x0493CD48>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0493CD48>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=1&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x0493CD48>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+2020-04-04 15:22:23,627///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:22:23,636///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:22:28,520///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:22:35,495///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:22:35,500///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:22:35,502///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:22:35,503///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:22:36,410///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: file must be non-empty"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 437, in sendMailForAll
+    mailOrg()
+  File "bot.py", line 392, in mailOrg
+    sendMailNow(usersList[i])
+  File "bot.py", line 381, in sendMailNow
+    bot.send_photo(user, mailPhoto,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 638, in send_photo
+    apihelper.send_photo(self.token, chat_id, photo, caption, reply_to_message_id, reply_markup,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 276, in send_photo
+    return _make_request(token, method_url, params=payload, files=files, method='post')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: file must be non-empty"}']
+
+2020-04-04 15:22:36,415///ERROR///__threaded_polling/// - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: file must be non-empty"}']
+2020-04-04 15:26:41,728///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:26:41,739///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:26:51,320///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:27:29,596///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:27:29,601///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:27:29,602///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:27:29,604///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:27:30,927///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: file must be non-empty"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 437, in sendMailForAll
+    mailOrg()
+  File "bot.py", line 392, in mailOrg
+    sendMailNow(int(usersList[i]))
+  File "bot.py", line 381, in sendMailNow
+    bot.send_photo(user, mailPhoto,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 638, in send_photo
+    apihelper.send_photo(self.token, chat_id, photo, caption, reply_to_message_id, reply_markup,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 276, in send_photo
+    return _make_request(token, method_url, params=payload, files=files, method='post')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: file must be non-empty"}']
+
+2020-04-04 15:27:30,935///ERROR///__threaded_polling/// - A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: file must be non-empty"}']
+2020-04-04 15:30:22,692///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:30:22,700///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:30:27,630///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:30:45,208///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:30:45,214///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:30:45,215///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:30:45,217///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:30:48,765///ERROR///run/// - ProxyError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendPhoto?chat_id=587125336&caption=%D0%9A%D0%B0%D0%BA%D0%BE%D0%B5-%D1%82%D0%BE+%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5+%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%0A%0A%D0%A1+%D0%BE%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%B0%D0%BC%D0%B8%2C+%40grnbows+%D1%83%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8+%D0%B8+&reply_markup=%7B%22inline_keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22%5Cu0412%5Cu043a%5Cu043e%5Cu043d%5Cu0442%5Cu0430%5Cu043a%5Cu0442%5Cu0435%22%2C+%22url%22%3A+%22https%3A%2F%2Fvk.com%2Fgrnbows%22%7D%2C+%7B%22text%22%3A+%22Instagram%22%2C+%22url%22%3A+%22https%3A%2F%2Fwww.instagram.com%2Fgrnbows%2F%22%7D%5D%5D%7D&parse_mode=html (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 662, in urlopen
+    self._prepare_proxy(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 948, in _prepare_proxy
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 342, in connect
+    self._tunnel()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 894, in _tunnel
+    (version, code, message) = response._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendPhoto?chat_id=587125336&caption=%D0%9A%D0%B0%D0%BA%D0%BE%D0%B5-%D1%82%D0%BE+%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5+%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%0A%0A%D0%A1+%D0%BE%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%B0%D0%BC%D0%B8%2C+%40grnbows+%D1%83%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8+%D0%B8+&reply_markup=%7B%22inline_keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22%5Cu0412%5Cu043a%5Cu043e%5Cu043d%5Cu0442%5Cu0430%5Cu043a%5Cu0442%5Cu0435%22%2C+%22url%22%3A+%22https%3A%2F%2Fvk.com%2Fgrnbows%22%7D%2C+%7B%22text%22%3A+%22Instagram%22%2C+%22url%22%3A+%22https%3A%2F%2Fwww.instagram.com%2Fgrnbows%2F%22%7D%5D%5D%7D&parse_mode=html (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 438, in sendMailForAll
+    mailOrg()
+  File "bot.py", line 393, in mailOrg
+    sendMailNow(int(usersList[i]))
+  File "bot.py", line 382, in sendMailNow
+    bot.send_photo(user, getMailPhoto(),
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 638, in send_photo
+    apihelper.send_photo(self.token, chat_id, photo, caption, reply_to_message_id, reply_markup,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 276, in send_photo
+    return _make_request(token, method_url, params=payload, files=files, method='post')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 510, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendPhoto?chat_id=587125336&caption=%D0%9A%D0%B0%D0%BA%D0%BE%D0%B5-%D1%82%D0%BE+%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5+%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%0A%0A%D0%A1+%D0%BE%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%B0%D0%BC%D0%B8%2C+%40grnbows+%D1%83%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8+%D0%B8+&reply_markup=%7B%22inline_keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22%5Cu0412%5Cu043a%5Cu043e%5Cu043d%5Cu0442%5Cu0430%5Cu043a%5Cu0442%5Cu0435%22%2C+%22url%22%3A+%22https%3A%2F%2Fvk.com%2Fgrnbows%22%7D%2C+%7B%22text%22%3A+%22Instagram%22%2C+%22url%22%3A+%22https%3A%2F%2Fwww.instagram.com%2Fgrnbows%2F%22%7D%5D%5D%7D&parse_mode=html (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))
+
+2020-04-04 15:35:59,203///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:35:59,215///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:36:06,320///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:36:11,867///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:36:11,874///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:36:11,874///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:36:11,876///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:36:14,409///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:36:14,410///INFO///sendMailNow/// - 695122832 took mail now
+2020-04-04 15:36:15,869///INFO///mailOrg/// - 
+
+##############################
+Mailing is over
+##############################
+
+
+2020-04-04 15:41:59,552///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:41:59,563///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:42:07,057///INFO///sendTestMail/// - /mail_test used now
+2020-04-04 15:42:14,951///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:42:14,959///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:42:14,960///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:42:14,962///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:42:17,489///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:42:17,490///INFO///sendMailNow/// - 695122832 took mail now
+2020-04-04 15:42:19,092///INFO///mailOrg/// - 
+
+##############################
+Mailing is over
+##############################
+
+
+2020-04-04 15:42:45,370///INFO///sendMailForAll/// - /mail_start used now
+2020-04-04 15:42:45,376///INFO///getUsersList/// - Got the users list ['587125336', '695122832']
+2020-04-04 15:42:45,376///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:42:45,378///INFO///sendMailNow/// - 587125336 took mail now
+2020-04-04 15:42:46,852///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:42:46,853///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:42:46,855///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 15:42:47,733///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:42:47,734///INFO///sendMailNow/// - 695122832 took mail now
+2020-04-04 15:42:49,878///INFO///mailOrg/// - 
+
+##############################
+Mailing is over
+##############################
+
+
+2020-04-04 15:44:17,905///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:44:17,916///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 15:48:56,591///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:48:56,592///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:48:56,595///INFO///sendInfoNow/// - 876619680 used /info command now
+2020-04-04 15:49:01,923///ERROR///run/// - ConnectTimeout occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendMessage?chat_id=876619680&text=%D0%92%D1%80%D0%B5%D0%BC%D1%8F+%D0%BD%D0%B0+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5+14%3A48%3A56+%28UTC+%2B3%29.%0A%09%09%09%0A%D0%92%D0%BE%D1%82+%D1%82%D0%B0%D0%BA%D1%83%D1%8E+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E+%D0%BC%D0%BD%D0%B5+%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%3A%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%3A+76.40%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B5%D0%B2%D1%80%D0%BE%3A+82.56%0A%09%09%09%0ACOVID-19+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%BD%D0%B0+04.04.2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+4731%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+333%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+43%0A%09%09%09%0ACOVID-19+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5%3A%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+1133453%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+236000%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+60378 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x047B2790>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 161, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.VerifiedHTTPSConnection object at 0x047B2790>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendMessage?chat_id=876619680&text=%D0%92%D1%80%D0%B5%D0%BC%D1%8F+%D0%BD%D0%B0+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5+14%3A48%3A56+%28UTC+%2B3%29.%0A%09%09%09%0A%D0%92%D0%BE%D1%82+%D1%82%D0%B0%D0%BA%D1%83%D1%8E+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E+%D0%BC%D0%BD%D0%B5+%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%3A%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%3A+76.40%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B5%D0%B2%D1%80%D0%BE%3A+82.56%0A%09%09%09%0ACOVID-19+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%BD%D0%B0+04.04.2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+4731%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+333%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+43%0A%09%09%09%0ACOVID-19+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5%3A%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+1133453%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+236000%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+60378 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x047B2790>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "bot.py", line 345, in sendInfoNow
+    bot.send_message(message.chat.id, f'Время на сервере {serverTimeNow}.\n\
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/sendMessage?chat_id=876619680&text=%D0%92%D1%80%D0%B5%D0%BC%D1%8F+%D0%BD%D0%B0+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5+14%3A48%3A56+%28UTC+%2B3%29.%0A%09%09%09%0A%D0%92%D0%BE%D1%82+%D1%82%D0%B0%D0%BA%D1%83%D1%8E+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E+%D0%BC%D0%BD%D0%B5+%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%3A%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%3A+76.40%0A%D0%9A%D1%83%D1%80%D1%81+%D0%B5%D0%B2%D1%80%D0%BE%3A+82.56%0A%09%09%09%0ACOVID-19+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%BD%D0%B0+04.04.2020%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+4731%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+333%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+43%0A%09%09%09%0ACOVID-19+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5%3A%0A%D0%92%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2%3A+1133453%0A%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%BE%3A+236000%0A%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%B9%3A+60378 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x047B2790>, 'Connection to api.telegram.org timed out. (connect timeout=3.5)'))
+
+2020-04-04 15:49:17,920///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:49:47,102///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1133453', 'recovered': '236000', 'dies': '60379'}}
+2020-04-04 15:54:47,104///INFO///getServerData/// - Server Data get successfully
+2020-04-04 15:55:18,296///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1133453', 'recovered': '236000', 'dies': '60381'}}
+2020-04-04 16:00:18,296///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:00:35,910///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1133454', 'recovered': '236000', 'dies': '60381'}}
+2020-04-04 16:01:25,882///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:25,892///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 16:01:28,418///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:28,419///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:28,422///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 16:01:31,658///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:31,659///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:31,662///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 16:01:40,597///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:40,598///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:01:40,601///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 16:04:03,858///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:04:03,860///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:04:03,863///INFO///sendInfoNow/// - 876619680 used /info command now
+2020-04-04 16:06:25,894///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:07:23,832///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1133455', 'recovered': '236000', 'dies': '60381'}}
+2020-04-04 16:24:38,982///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:24:38,991///INFO///<module>/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-04 16:29:38,993///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:29:45,638///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:29:45,639///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:29:45,645///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 16:29:52,769///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.133.815', 'recovered': '236.008', 'dies': '60.398'}}
+2020-04-04 16:32:17,292///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:32:17,292///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:32:17,294///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 16:34:52,770///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:35:03,292///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.133.815', 'recovered': '236.008', 'dies': '60.398'}}
+2020-04-04 16:40:03,293///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:40:23,138///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.133.967', 'recovered': '236.083', 'dies': '60.408'}}
+2020-04-04 16:44:10,075///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:44:10,075///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:44:10,075///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 16:45:23,139///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:45:38,038///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.134.399', 'recovered': '236.086', 'dies': '60.427'}}
+2020-04-04 16:50:38,039///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:50:48,870///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.134.399', 'recovered': '236.086', 'dies': '60.427'}}
+2020-04-04 16:55:48,871///INFO///getServerData/// - Server Data get successfully
+2020-04-04 16:55:58,495///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.134.421', 'recovered': '236.086', 'dies': '60.428'}}
+2020-04-04 17:00:58,496///INFO///getServerData/// - Server Data get successfully
+2020-04-04 17:01:18,849///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.134.421', 'recovered': '236.095', 'dies': '60.428'}}
+2020-04-04 17:06:18,850///INFO///getServerData/// - Server Data get successfully
+2020-04-04 17:06:59,518///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.138.156', 'recovered': '236.097', 'dies': '61.136'}}
+2020-04-04 17:11:59,519///INFO///getServerData/// - Server Data get successfully
+2020-04-04 17:12:09,004///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.138.357', 'recovered': '236.157', 'dies': '61.141'}}
+2020-04-04 17:13:10,545///ERROR///run/// - ConnectionError occurred, args=(ProtocolError('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\packages\six.py", line 734, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+2020-04-04 18:06:33,375///ERROR///run/// - ConnectionError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796403&timeout=20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00DFB6D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x00DFB6D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796403&timeout=20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00DFB6D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796403&timeout=20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00DFB6D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2020-04-04 18:06:50,390///ERROR///run/// - ConnectionError occurred, args=(MaxRetryError("HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796403&timeout=20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x04296070>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"),)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 156, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 914, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 334, in connect
+    conn = self._new_conn()
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x04296070>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\util\retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796403&timeout=20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x04296070>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796403&timeout=20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x04296070>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2020-04-04 18:06:57,609///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:06:57,609///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:06:57,610///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:09,112///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:09,112///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:09,112///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:09,342///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:09,342///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:09,343///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:12,355///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:12,355///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:12,355///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:16,807///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:16,807///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:16,807///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:16,807///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:16,808///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:16,811///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:17,284///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:17,284///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:17,285///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:17,552///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:17,552///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:17,552///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:17,939///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:17,939///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:17,940///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:19,137///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:19,137///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:19,138///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:19,486///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:19,486///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:19,486///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:19,760///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:19,761///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:19,761///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:20,900///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:20,900///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:20,901///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:21,910///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:21,910///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:21,911///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:22,138///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:22,138///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:22,139///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:27,540///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:27,540///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:27,540///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:27,723///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:27,723///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:27,724///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:32,979///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:32,979///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:32,981///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:34,913///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:34,913///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:34,913///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:36,410///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:36,410///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:36,411///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:38,017///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:38,017///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:38,019///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:39,597///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:39,597///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:39,598///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:41,617///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:41,617///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:41,618///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:07:59,163///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:59,163///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:07:59,163///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:08:00,084///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,084///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,085///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:08:00,356///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,356///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,356///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:08:00,624///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,624///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,624///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:08:00,851///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,851///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:00,852///INFO///sendInfoNow/// - 695122832 used /info command now
+2020-04-04 18:08:27,631///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:27,631///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:08:27,631///INFO///sendInfoNow/// - 587125336 used /info command now
+2020-04-04 18:10:14,786///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:10:27,547///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.139.246', 'recovered': '236.229', 'dies': '61.149'}}
+2020-04-04 18:15:27,549///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:15:50,067///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.140.598', 'recovered': '236.528', 'dies': '61.184'}}
+2020-04-04 18:20:50,068///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:21:14,921///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.140.641', 'recovered': '236.528', 'dies': '61.189'}}
+2020-04-04 18:26:14,921///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:26:30,971///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.141.036', 'recovered': '236.650', 'dies': '61.195'}}
+2020-04-04 18:31:30,973///INFO///getServerData/// - Server Data get successfully
+2020-04-04 18:31:44,598///INFO///reloadData/// - New data was taker successfully  - {'dollar': '76.40', 'euro': '82.56', 'coronaRus': {'all': '4.731', 'recovered': '333', 'dies': '43'}, 'coronaWorld': {'all': '1.141.038', 'recovered': '236.664', 'dies': '61.195'}}

@@ -46,7 +46,7 @@ def getNewData():
 
 	global dataDict
 	dataDict = {'dollar': dollarNow, 
-			'euro': euroNow, 
+			'euro': euroNow,
 			'coronaRus': {
 				'all': ruCorona['all'], 
 				'recovered': ruCorona['recovered'],
@@ -143,7 +143,6 @@ def sendEveryDayMessage():
 			\nCOVID-19 в мире:\nВсего случаев: {worldAll}\nВыздоровело: {worldRecovered}\nСмертей: {worldDies}\n\
 			\nСпасибо, что подписались на ежедневную рассылку❤️')
 	
-
 	def sendingOrg():
 		usersList = getUsersList()
 
@@ -153,18 +152,27 @@ def sendEveryDayMessage():
 
 		serverTimeNow = getServerData()['time']
 		print('\n\n' + '#' * 30 + '\nNewsletter is over\n' + '#' * 30 + '\n\n')
-		logging.info('\n\n' + '#' * 30 + '\nNewsletter infos over\n' + '#' * 30 + '\n\n')
+		logging.info('\n\n' + '#' * 30 + '\nNewsletter is over\n' + '#' * 30 + '\n\n')
 
-
-	schedule.every().day.at("12:35").do(sendingOrg)
+	schedule.every().day.at("12:25").do(sendingOrg)
 
 	while True:
 		schedule.run_pending()
 		time.sleep(1)
 
+
 # data variables
 dataDict = getNewData()
 usersList = []
+
+
+#	This is information block, that needed for better code navigation	#
+#########################################################################
+#	|																|	#
+#	|	Main block of my bot. Here you can see all commands,		|	#
+#	|	that available to users. 									|	#
+#	|																|	#
+#########################################################################
 
 
 # bot body
@@ -343,8 +351,105 @@ def sendInfoNow(message):
 			\nФункция дорабатывается, разработчик у бота один. Прошу прощения за неудобства, скоро пофикшу,\nДенис')
 
 
+#	This is information block, that needed for better code navigation	#
+#########################################################################
+#	|																|	#
+#	|	Block of my bot, that allows me send different messages		|	#
+#	|	to my subscribers											|	#
+#	|																|	#
+#########################################################################
+
+from random import randint
+
+
+@bot.message_handler(commands=['sms'])
+def sendMessageToConsole(message):
+	if message.chat.type == 'private':
+		chanse = randint(1,10)
+		print(message.from_user.first_name + ' - ' + '\'' + message.text[5:len(message.text)] + '\'')
+		if chanse <= 2:
+			bot.send_photo(message.chat.id, open('images/ktotakie.jpg', 'rb'))
+				
+
+def mail():
+	mailText = 'Какое-то тестовое сообщение\n\nС отступами, @grnbows упоминаниями и кнопками.'
+
+	mailButtons = types.InlineKeyboardMarkup()
+	button1 = types.InlineKeyboardButton(text='Вконтакте', url='https://vk.com/grnbows')
+	button2 = types.InlineKeyboardButton(text='Instagram', url='https://www.instagram.com/grnbows/')
+	mailButtons.add(button1, button2)
+
+
+	def getMailPhoto(): 
+		return open('images/text.jpg', 'rb')
+
+
+	def sendMailNow(user):
+		serverTimeNow = getServerData()['time']
+		
+		print(f'{serverTimeNow}: ' + 'mail were send to ' + str(user) + ' successfully')
+		logging.info(str(user) + ' took mail now')
+
+		bot.send_photo(user, getMailPhoto(), 
+			caption=mailText, 
+			parse_mode='html', 
+			reply_markup = mailButtons)
+
+
+	def mailOrg():
+		usersList = getUsersList()
+
+		for i in range(len(usersList)):
+			if usersList[i] != '' and usersList[i] != None:
+				sendMailNow(int(usersList[i]))
+
+		print('\n\n' + '#' * 30 + '\nMailing is over\n' + '#' * 30 + '\n\n')
+		logging.info('\n\n' + '#' * 30 + '\nMailing is over\n' + '#' * 30 + '\n\n')
+
+
+	@bot.message_handler(commands=['mail_help'])
+	def sendMailHelp(message):
+		if message.chat.type == 'private' and message.from_user.id == config.ADMIN_ID:
+			print('/mail_help used now')
+			logging.info('/mail_help used now')
+
+			bot.send_message(config.ADMIN_ID, '\
+				<b><i>/mail_test</i></b> - отправить мне тестовое сообщение\n\
+				\n<b><i>/mail_start</i></b> - начать рассылку сейчас\
+				'.format(message.from_user, bot.get_me()), parse_mode='html')
+
+
+	@bot.message_handler(commands=['mail_test'])
+	def sendTestMail(message):
+		if message.chat.type == 'private' and message.from_user.id == config.ADMIN_ID:
+			print('/mail_test used now')
+			logging.info('/mail_test used now')
+
+			bot.send_photo(config.ADMIN_ID, getMailPhoto(), 
+				caption=mailText, 
+				parse_mode='html', 
+				reply_markup = mailButtons)
+
+
+	@bot.message_handler(commands=['mail_start'])
+	def sendMailForAll(message):
+		if message.chat.type == 'private' and message.from_user.id == config.ADMIN_ID:
+			print('/mail_start used now')
+			logging.info('/mail_start used now')
+			mailOrg()
+
+
 reloadDataThread = threading.Thread(target=reloadData, name='reloadDataThread')
 sendEveryDayMessageThread = threading.Thread(target=sendEveryDayMessage, name='sendEveryDayMessageThread')
+mailingThread = threading.Thread(target=mail, name='mailingThread')
+
 sendEveryDayMessageThread.start()
 reloadDataThread.start()
-bot.polling(none_stop=True, interval=0)
+mailingThread.start()
+
+while True:
+    try:
+      bot.polling(none_stop=True, interval=0)
+    except: 
+      print('bolt')
+      time.sleep(5)
