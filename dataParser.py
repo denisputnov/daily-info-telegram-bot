@@ -15,32 +15,34 @@ def reformate(value):
 		return value
 
 
-def checkDollarValue():
+def check_dollar_value():
 	dollarFullPage = requests.get(config.DOLLAR_RUB, headers=config.headers)
 	dollarSoup = bs(dollarFullPage.content, 'html.parser')
-	dollarConvert = dollarSoup.findAll('span', {'class': 'DFlfde', 'class': 'SwHCTb', 'data-precision': 2})
+	dollarConvert = dollarSoup.findAll('span', {'class': 'pid-2186-last'})
+	if __name__ == '__main__':
+		print(dollarConvert)
 	return dollarConvert[0].text.replace(',','.')
 
 
-def checkEuroValue():
+def check_euro_value():
 	euroFullPage = requests.get(config.EURO_RUB, headers=config.headers)
 	euroSoup = bs(euroFullPage.content, 'html.parser')
-	euroConvert = euroSoup.findAll('span', {'class': 'DFlfde', 'class': 'SwHCTb', 'data-precision': 2})
+	euroConvert = euroSoup.findAll('span', {'class': 'pid-1691-last'})
 	return euroConvert[0].text.replace(',','.')
 
 
-def checkCoronaRussia():
+def check_corona_russia():
 	coronaRusiiaFullPage = requests.get(config.CORONA_RUSSIA, headers=config.headers)
 	coronaRussiaSoup = bs(coronaRusiiaFullPage.content, 'html.parser')
 	coronaRussiaConvert = coronaRussiaSoup.findAll('b')
-	# if __name__ == '__main__':
-	# 	print(coronaRussiaConvert)
+	if __name__ == '__main__':
+		print(coronaRussiaConvert)
 	return {'all': reformate(coronaRussiaConvert[0].text), 
-			'recovered': reformate(coronaRussiaConvert[1].text), 
+			'recovered': reformate(coronaRussiaConvert[2].text), 
 			'dies': reformate(coronaRussiaConvert[3].text)}
 
 
-def checkCoronaWorld():
+def check_corona_world	():
 	coronaWorldFullPage = requests.get(config.CORONA_WORLD, headers=config.headers)
 	coronaWorldSoup = bs(coronaWorldFullPage.content, 'html.parser')
 	coronaWorldConvert = coronaWorldSoup.findAll('div', {'class': 'maincounter-number'})
@@ -52,9 +54,9 @@ def checkCoronaWorld():
 
 
 if __name__ == '__main__':
-	# print(checkDollarValue())
-	# print(checkEuroValue())
+	# print(check_dollar_value())
+	# print(check_euro_value())
 	# print(checkCoronaWorld())
-	# print(checkCoronaRussia())
-	while True:
-		print(reformate(input()))
+	print(check_corona_russia())
+	# while True:
+		# print(reformate(input()))

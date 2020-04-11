@@ -36,8 +36,11 @@ NEW: user processing functions, daily mailing func, added `/help`, `/sub`, `/unf
 `v0.5.3dev` - `dd58597c7e5a5addd664a5d288dbdbd428690f1d`</br>
 >NEW: func, that show subscribers amount. Added two buttons to /author command.
 
-`v0.6dev` - `now`</br>
+`v0.6dev` - `b9947c077377b44b550ea34209a7d064044ff737`</br>
 >NEW: added `reformate` function in `dataParcer.py`, added `/sms`, `/mail_help`, `/mail_test` and `/mail_start` commands for starting mailing. Bug fix. 
+
+`v0.7dev` - `now`</br>
+>Big code refactoring: Added documentation for each function, now variables and function names match with PEP8.
 
 ### Production
 Too early ;)
