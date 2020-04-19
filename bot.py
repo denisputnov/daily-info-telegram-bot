@@ -36,7 +36,7 @@ def get_server_data():
 
 	return dictionary {'time': serverTime,'date': serverDate}
 	"""
-	serverTime = str(time.strftime('%H')) + ':' + time.strftime('%M:%S (UTC +3)')
+	serverTime = str((int(time.strftime('%H') + 3) % 24)) + ':' + time.strftime('%M:%S (UTC +3)')
 	serverDate = time.strftime('%d.%m.20%y')
 	logging.info('Server Data get successfully')
 	return {'time': serverTime,
@@ -240,8 +240,8 @@ def send_every_day_message():
 		print('\n\n' + '#' * 30 + '\nNewsletter is over\n' + '#' * 30 + '\n\n')
 		logging.info('\n\n' + '#' * 30 + '\nNewsletter is over\n' + '#' * 30 + '\n\n')
 
-	schedule.every().day.at("12:00").do(sending_org)
-	schedule.every().day.at("20:00").do(sending_org)
+	schedule.every().day.at("9:00").do(sending_org)
+	schedule.every().day.at("17:00").do(sending_org)
 
 	while True:
 		schedule.run_pending()
