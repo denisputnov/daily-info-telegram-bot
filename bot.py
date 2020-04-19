@@ -7,7 +7,7 @@ RU:
 Телеграмм бот для отслеживания курса доллара и евро к рублю
 и проверки ситуации коронавируса в России и по всему миру.
 
-Use    python bot.py    command to start
+Use    python bot.py    command to start.
 
 Params: None
 
@@ -36,7 +36,7 @@ def get_server_data():
 
 	return dictionary {'time': serverTime,'date': serverDate}
 	"""
-	serverTime = str((int(time.strftime('%H')) - 1) % 24) + ':' + time.strftime('%M:%S (UTC +3)')
+	serverTime = str(time.strftime('%H')) + ':' + time.strftime('%M:%S (UTC +3)')
 	serverDate = time.strftime('%d.%m.20%y')
 	logging.info('Server Data get successfully')
 	return {'time': serverTime,
@@ -240,7 +240,8 @@ def send_every_day_message():
 		print('\n\n' + '#' * 30 + '\nNewsletter is over\n' + '#' * 30 + '\n\n')
 		logging.info('\n\n' + '#' * 30 + '\nNewsletter is over\n' + '#' * 30 + '\n\n')
 
-	schedule.every().day.at("13:05").do(sending_org)
+	schedule.every().day.at("12:00").do(sending_org)
+	schedule.every().day.at("20:00").do(sending_org)
 
 	while True:
 		schedule.run_pending()
@@ -260,6 +261,7 @@ usersList = []
 #########################################################################
 
 def bot_body():
+	global bot 
 	bot = telebot.TeleBot(config.TOKEN)
 
 	print('\n' * 30  + '#' * 30 + '\nNow it\'s started successfully.\nINFO: Server Time:' + get_server_data()['time'] + '\nData Dictionary Parsed successfully.\n' + '#' * 30 + '\n\nData for now:')
@@ -477,7 +479,8 @@ def bot_body():
 			bot.send_photo(user, get_mail_photo(), 
 				caption=mailText, 
 				parse_mode='html', 
-				reply_markup=mailButtons)
+				reply_markup=mailButtons,
+				disable_web_page_preview=True)
 
 
 		def mail_org():
@@ -512,7 +515,8 @@ def bot_body():
 				bot.send_photo(config.ADMIN_ID, get_mail_photo(), 
 					caption=mailText, 
 					parse_mode='html', 
-					reply_markup = mailButtons)
+					reply_markup=mailButtons,
+					disable_web_page_preview=True)
 
 
 		@bot.message_handler(commands=['mail_start'])
@@ -535,7 +539,7 @@ def bot_body():
 		try:
 			bot.polling(none_stop=True, interval=0)
 		except: 
-			print('bolt')
+			print('connection failed')
 			time.sleep(5)
 
 
