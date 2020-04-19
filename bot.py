@@ -403,8 +403,14 @@ def bot_body():
 		print(f'{serverTimeNow}: ' + str(message.from_user.id) + ' used /donate command now')
 		logging.info(str(message.from_user.id) + ' used /donate command now')
 
-		bot.send_message(message.chat.id, 'Список моих реквизитов недоступен, бот в разработке.\nСпасибо.\
-			'.format(message.from_user, bot.get_me()), parse_mode='html')
+		donateButtons = types.InlineKeyboardMarkup()
+		QIVI = types.InlineKeyboardButton(text='Qivi', url='https://qiwi.com/n/GRNBOWS')
+		donateButtons.add(QIVI)
+
+		bot.send_message(message.chat.id, 
+			'Вот номер моей карты и кошёльки:\n\
+			\nСбербанк: 4274320030073988\nWMR: R591990296871\n\
+			\nСпасибо.', parse_mode='html', reply_markup=donateButtons)
 		bot.send_sticker(message.chat.id, open('images/donate.tgs', 'rb'))
 
 
