@@ -23160,3 +23160,98 @@ Traceback (most recent call last):
     raise ProxyError(e, request=request)
 requests.exceptions.ProxyError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1147139388:AAFVG4IWQx6648uj0PoKY7aJfkz85n0_-r4/getUpdates?offset=11796566&timeout=20 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
 
+2020-04-19 15:08:03,231///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,240///INFO///bot_body/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-19 15:08:03,585///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,585///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,585///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,585///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,585///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:03,588///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:03,985///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,985///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:03,986///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:04,049///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,049///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,049///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:04,123///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,123///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,123///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:04,190///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,191///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,191///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:04,281///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,281///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,281///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:04,334///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,334///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:04,334///INFO///send_info_now/// - 587125336 used /info command now
+2020-04-19 15:08:04,430///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:08:06,257///INFO///send_report/// - 587125336 used /report command now
+2020-04-19 15:09:13,323///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:10:08,653///INFO///bot_body/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-19 15:11:45,431///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-04-19 15:11:51,404///ERROR///run/// - ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[b\'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}\']',)
+Traceback (most recent call last):
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\util.py", line 60, in run
+    task(*args, **kwargs)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "C:\Users\insta\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telebot\apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}']
+
+2020-04-19 15:13:01,010///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:13:01,017///INFO///bot_body/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-19 15:14:12,586///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:14:12,594///INFO///bot_body/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
+2020-04-19 15:15:05,673///INFO///get_server_data/// - Server Data get successfully
+2020-04-19 15:15:05,681///INFO///bot_body/// - 
+
+
+##################################################
+Now it's started successfully.
+##################################################
