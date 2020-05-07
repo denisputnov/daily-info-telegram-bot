@@ -43,5 +43,8 @@ NEW: user processing functions, daily mailing func, added `/help`, `/sub`, `/unf
 >Big code refactoring: Added documentation for each function, now variables and function names match with PEP8.
 
 ### Production
-`v1.0dep` - `now`</br>
->Finally fixed all bugs and added `/donate`. Project hosts on Heroku. Let's check how in will be! 
+`v1.0dep` - `2f75ba25f4fdb1e0c9006a7a8d0c4d7a9af57dbf`</br>
+>Finally fixed all bugs and added `/donate`. Project hosts on Heroku. Let's check how in will be!
+
+`v2.0dep` - `now`</br>
+>CHANGES:</br>1. Changed bot architecture. Now all commands and functions in other files.</br>2. All interaction realized by buttons.</b>3. Fixed problems with `hand_mail` methods.</br>4. Added `graph` module. Now user can see visualized statistics.
