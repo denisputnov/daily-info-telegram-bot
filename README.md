@@ -33,14 +33,6 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.3
 ```
 It's the user agent, that needed for correct parser work. </br>
 You can find your own user agent [HERE](https://www.google.com/search?sxsrf=ALeKk01kqrdxJf949NumVHacA5etbmoVKA%3A1585737968455&source=hp&ei=8HCEXsOgGdPlmwWm57oo&q=my+user+agent&oq=my&gs_lcp=CgZwc3ktYWIQARgAMgQIIxAnMgIIADICCAAyBQgAEIMBMgUIABCDATICCAAyAggAMgIIADICCAAyAggAOgcIIxDqAhAnUIQHWNQIYL4daAJwAHgAgAFciAG0AZIBATKYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab).</br>
- #### Logging settings:
- You can chang basic logging config in `bot.py` at the top of file:
- ```
- logging.basicConfig(filename='botbody.log',
-					level=logging.INFO,
-					format='%(asctime)s///%(levelname)s///%(funcName)s/// - %(message)s')
-
- ``` 
 
 ---
 ### Find me here:
