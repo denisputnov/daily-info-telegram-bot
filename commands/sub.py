@@ -2,6 +2,7 @@ from commands.message_template import Message_Template
 from telebot import types
 from service_commands import add_user_to_users_list
 from service_commands import usersList
+from service_commands import get_users_list
 
 
 DISABLE_WEB_PAGE_PREVIEW = None # True or False
@@ -10,7 +11,7 @@ DISABLE_NOTIFICATION = None
 PARSE_MODE = 'html'
 
 COMMAND_TEXT_POS = 'Подписка на ежедневную рассылку успешно оформлена.'
-COMMAND_TEXT_NEG = 'Вы уже подписаны на рассылку, повторная подписка невозможна.\nБот ошибается? /report.'
+COMMAND_TEXT_NEG = 'Вы уже подписаны на рассылку, повторная подписка невозможна.\nБот ошибается? Сообщи об ошибке.'
 
 
 help_button = types.InlineKeyboardButton(text='Список команд', callback_data='help')
@@ -24,8 +25,8 @@ REPLY_MARKUP_NEG.add(report_button, help_button)
 
 
 def construct_message(message_chat_id):
-	if add_user_to_users_list(message_chat_id):
-
+	if str(message_chat_id) not in get_users_list():
+		add_user_to_users_list(message_chat_id)
 		message = Message_Template(
 				chat_id = message_chat_id,
 				text = COMMAND_TEXT_POS, 

@@ -91,11 +91,15 @@ if __name__ == '__main__':
 						bot.send_message(config.ADMIN_ID, 'Кто-то подписался/отписался\n\n' +' '.join(get_users_list()))
 					
 					except Exception as e:
-						bot.send_message(config.ADMIN_ID, 'Какая-то ошибка в блоке try/except у SUB, надо исправить.')
-						params = sub.construct_message(call.message.chat.id)
+						# print(repr(e))
+						# bot.send_message(config.ADMIN_ID, 'Какая-то ошибка в блоке try/except у SUB, надо исправить.')
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
-						send_sub_message(call.message)
+
+						bot.send_message(chat_id=params.chat_id,
+							text=params.text,
+							parse_mode=params.parse_mode,
+							reply_markup=params.reply_markup)
 
 				elif call.data == 'unfollow':
 					try:
@@ -108,11 +112,15 @@ if __name__ == '__main__':
 						bot.send_message(config.ADMIN_ID, 'Кто-то подписался/отписался\n\n' +' '.join(get_users_list()))
 
 					except Exception as e:
-						bot.send_message(config.ADMIN_ID, 'Какая-то ошибка в блоке try/except у UNFOLLOW, надо исправить.')
-						params = unfollow.construct_message(call.message.chat.id)
+						# print(repr(e))
+						# bot.send_message(config.ADMIN_ID, 'Какая-то ошибка в блоке try/except у UNFOLLOW, надо исправить.')
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
-						send_sub_message(call.message)
+						
+						bot.send_message(chat_id=params.chat_id,
+							text=params.text,
+							parse_mode=params.parse_mode,
+							reply_markup=params.reply_markup)
 
 				elif call.data == 'report':
 					try:
@@ -222,7 +230,6 @@ if __name__ == '__main__':
 	@bot.message_handler(commands=['записаться', 'регулярно', 'sub', 'subscribe'])
 	def send_sub_message(message):
 		try:
-			params = sub.construct_message(message.chat.id)
 			bot.send_message(chat_id=params.chat_id,
 				text=params.text,
 				parse_mode=params.parse_mode,
@@ -236,9 +243,8 @@ if __name__ == '__main__':
 
 
 	@bot.message_handler(commands=['отписаться', 'unfollow', 'unf', 'unsub'])
-	def send_sub_message(message):
+	def send_unfollow_message(message):
 		try:
-			params = unfollow.construct_message(message.chat.id)
 			bot.send_message(chat_id=params.chat_id,
 				text=params.text,
 				parse_mode=params.parse_mode,

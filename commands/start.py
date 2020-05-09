@@ -9,7 +9,7 @@ DISABLE_NOTIFICATION = None
 PARSE_MODE = 'html'
 
 COMMAND_TEXT_ONE = 'Привет! Я отправлю тебе краткую сводку самых важных новостей на день.\n\nНа сегодня актуально:\n•Курс доллара и евро\n•Ситуация COVID-19 в России и мире\n'
-COMMAND_TEXT_TWO = f'Подпишись на рассылку, чтобы получать информацию автоматически каждый день в {MAIL_TIME} по МСК (UTC +3).'
+COMMAND_TEXT_TWO = 'Подпишись на рассылку, чтобы получать информацию автоматически каждый день в 13:00 по МСК (UTC +3).'
 COMMAND_TEXT_THREE = 'Хочешь узнать больше? Открой список команд.'
 
 REPLY_MARKUP_FOLLOWED = types.InlineKeyboardMarkup(row_width=1)
