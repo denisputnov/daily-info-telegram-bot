@@ -31,7 +31,7 @@ from service_commands import get_users_list
 from service_commands import get_followers_amount
 from service_commands import add_user_to_users_list
 from service_commands import del_user_from_users_list
-from service_commands import get_graph
+# from service_commands import get_graph
 
 from service_commands import dataDict
 from service_commands import usersList
@@ -48,7 +48,7 @@ from commands import donate
 
 if __name__ == '__main__':
 	
-	get_graph()
+	# get_graph()
 
 	bot = telebot.TeleBot(config.TOKEN)
 
@@ -230,6 +230,7 @@ if __name__ == '__main__':
 	@bot.message_handler(commands=['записаться', 'регулярно', 'sub', 'subscribe'])
 	def send_sub_message(message):
 		try:
+			params = sub.construct_message(message.chat.id)
 			bot.send_message(chat_id=params.chat_id,
 				text=params.text,
 				parse_mode=params.parse_mode,
@@ -245,6 +246,7 @@ if __name__ == '__main__':
 	@bot.message_handler(commands=['отписаться', 'unfollow', 'unf', 'unsub'])
 	def send_unfollow_message(message):
 		try:
+			params = unfollow.construct_message(message.chat.id)
 			bot.send_message(chat_id=params.chat_id,
 				text=params.text,
 				parse_mode=params.parse_mode,
@@ -283,7 +285,7 @@ if __name__ == '__main__':
 			bot.send_message(chat_id=message.chat.id, text='Эта команда в данный момент недоступна.')
 
 	@bot.message_handler(commands=['донат', 'помочь', 'donate', 'реквизиты'])
-	def send_report_message(message):
+	def send_donate_message(message):
 		try:
 			bot.send_sticker(message.chat.id, open('images/donate.tgs', 'rb'))
 			params = donate.construct_message(message.chat.id)
@@ -296,7 +298,10 @@ if __name__ == '__main__':
 			print(repr(e))
 			bot.send_message(chat_id=message.chat.id, text='Эта команда в данный момент недоступна.')
 
-
+	@bot.message_handler(commands=['test'])
+	def send_test(message):
+		bot.send_message(message.chat.id, message.from_user.id)
+		
 
 
 
@@ -313,13 +318,20 @@ if __name__ == '__main__':
 				reply_markup=params.reply_markup)
 
 		def sending_org():
+			
 			usersList = get_users_list()
 
 			for i in range(len(usersList)):
-				if usersList[i] != '' and usersList[i] != None:
-					send_now(usersList[i])
+				try:
+					if usersList[i] != '' and usersList[i] != None:
+						send_now(usersList[i])
 
-			serverTimeNow = get_server_data()['time']
+				except:
+					bot.send_message(config.ADMIN_ID, f'user {usersList[i]} blocked the bot, i\'ll unfollow him  automatically')
+					del_user_from_users_list(usersList[i])
+					usersList = get_users_list()
+					bot.send_message(config.ADMIN_ID, f'new users list is {usersList}')
+					
 
 		schedule.every().day.at(config.MAIL_TIME).do(sending_org)
 
@@ -354,7 +366,6 @@ if __name__ == '__main__':
 
 
 		def send_mail_now(user):
-			serverTimeNow = get_server_data()['time']
 			bot.send_photo(user, get_mail_photo(), 
 				caption=mailText, 
 				parse_mode='html', 
