@@ -63,7 +63,7 @@ if __name__ == '__main__':
 							message_id=call.message.message_id,
 							text=params.text, 
 							reply_markup=params.reply_markup)
-					except Exception as e:
+					except Exception:
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
 						send_help_message(call.message)
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 							message_id=call.message.message_id,
 							text=params.text,
 							reply_markup=params.reply_markup)
-					except Exception as e:
+					except Exception:
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
 						send_info_message(call.message)
@@ -90,9 +90,7 @@ if __name__ == '__main__':
 
 						bot.send_message(config.ADMIN_ID, 'Кто-то подписался/отписался\n\n' +' '.join(get_users_list()))
 					
-					except Exception as e:
-						# print(repr(e))
-						# bot.send_message(config.ADMIN_ID, 'Какая-то ошибка в блоке try/except у SUB, надо исправить.')
+					except Exception:
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
 
@@ -111,9 +109,7 @@ if __name__ == '__main__':
 
 						bot.send_message(config.ADMIN_ID, 'Кто-то подписался/отписался\n\n' +' '.join(get_users_list()))
 
-					except Exception as e:
-						# print(repr(e))
-						# bot.send_message(config.ADMIN_ID, 'Какая-то ошибка в блоке try/except у UNFOLLOW, надо исправить.')
+					except Exception:
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
 						
@@ -130,7 +126,7 @@ if __name__ == '__main__':
 							text=params.text + f'\n\nmessage.chat.id - {call.message.chat.id}\nmessage.from_user.id - {call.message.from_user.id}\nmessage.chat.type - {call.message.chat.type}',
 							reply_markup=params.reply_markup)
 
-					except Exception as e:
+					except Exception:
 						params = report.construct_message(call.message.chat.id)
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
@@ -144,7 +140,7 @@ if __name__ == '__main__':
 							text=params.text,
 							reply_markup=params.reply_markup)
 
-					except Exception as e:
+					except Exception:
 						params = author.construct_message(call.message.chat.id)
 						bot.delete_message(chat_id=call.message.chat.id,
 							message_id=call.message.message_id)
@@ -156,7 +152,7 @@ if __name__ == '__main__':
 							message_id=call.message.message_id)
 						send_report_message(call.message)
 
-					except Exception as e:
+					except Exception:
 						bot.edit_message_text(chat_id=call.message.chat.id, 
 							message_id=call.message.message_id,
 							text='Кажется, произошла какая=то ошибка. Используйте команду /report, чтобы сообщить',
@@ -172,8 +168,7 @@ if __name__ == '__main__':
 							caption=params.text,
 							photo=open('out.jpeg', 'rb'),
 							reply_markup=CALLBACK_MARKUP)
-					except Exception as e:
-						print(repr(e))
+					except Exception:
 						bot.send_message(config.ADMIN_ID, 'Какая-то ошибка с callback методом picture')
 
 		except Exception as e:
@@ -313,25 +308,23 @@ if __name__ == '__main__':
 	def send_every_day_message():
 		def send_now(user):
 			params = info.construct_message(user)
-			bot.send_message(chat_id=params.chat_id,
-				text=params.text + '\nСпасибо, что подписались на ежедневную рассылку❤️',
-				reply_markup=params.reply_markup)
-
+			try:
+				bot.send_message(chat_id=params.chat_id,
+					text=params.text + '\nСпасибо, что подписались на ежедневную рассылку❤️',
+					reply_markup=params.reply_markup)
+			except:
+				bot.send_message(config.ADMIN_ID, f'user {user} blocked the bot, i\'ll unfollow him automatically')
+				del_user_from_users_list(user)
+				usersList = get_users_list()
+				bot.send_message(config.ADMIN_ID, f'new users list is {usersList}')
+					
 		def sending_org():
 			
 			usersList = get_users_list()
 
 			for i in range(len(usersList)):
-				try:
-					if usersList[i] != '' and usersList[i] != None:
-						send_now(usersList[i])
-
-				except:
-					bot.send_message(config.ADMIN_ID, f'user {usersList[i]} blocked the bot, i\'ll unfollow him  automatically')
-					del_user_from_users_list(usersList[i])
-					usersList = get_users_list()
-					bot.send_message(config.ADMIN_ID, f'new users list is {usersList}')
-					
+				if usersList[i] != '' and usersList[i] != None:
+					send_now(usersList[i])
 
 		schedule.every().day.at(config.MAIL_TIME).do(sending_org)
 

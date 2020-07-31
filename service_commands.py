@@ -46,20 +46,19 @@ def get_new_data():
 			'coronaRus': {
 				'all': ruCorona['all'], 
 				'recovered': ruCorona['recovered'],
-				'dies': ruCorona['dies'],
-				'plus': ruCorona['plus']},
+				'dies': ruCorona['dies']},
 			'coronaWorld': {
 				'all': worldCorona['all'], 
 				'recovered': worldCorona['recovered'],
-				'dies': worldCorona['dies'] }
+				'dies': worldCorona['dies']}
 			}
 
 
 dataDict = get_new_data()
 usersList = []
 
-def get_graph():
-	return graph.draw_graph(data=dataParser.get_corona_ru_per_day(), width=1000, height=500, show_values=False, watermark_text='Telegram | @pyInfoParserBot')
+# def get_graph():
+# 	return graph.draw_graph(data=dataParser.get_corona_ru_per_day(), width=1000, height=500, show_values=False, watermark_text='Telegram | @pyInfoParserBot')
 
 
 def get_users_list():
@@ -152,8 +151,8 @@ def reload_data():
 		print(pformat(dataDict))
 		print('\n\n')
 
-if __name__ == '__main__':
-	get_graph()
+# if __name__ == '__main__':
+# 	get_graph()
 
 if __name__ != '__main__':
 	get_users_list()

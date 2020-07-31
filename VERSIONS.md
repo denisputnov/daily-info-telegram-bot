@@ -46,5 +46,8 @@ NEW: user processing functions, daily mailing func, added `/help`, `/sub`, `/unf
 `v1.0dep` - `2f75ba25f4fdb1e0c9006a7a8d0c4d7a9af57dbf`</br>
 >Finally fixed all bugs and added `/donate`. Project hosts on Heroku. Let's check how in will be!
 
-`v2.0dep` - `now`</br>
+`v2.0dep` - `cc7383313fd442258a0cfddc4e9e5ba3be07f3bc`</br>
 >CHANGES:</br>1. Changed bot architecture. Now all commands and functions in other files.</br>2. All interaction realized by buttons.</b>3. Fixed problems with `hand_mail` methods.</br>4. Added `graph` module. Now user can see visualized statistics.
+
+`v2.0.1dep` - `now` </br>
+>Bug fix: added try/except block in everyday mailling fun (previous version doesn't work). `graph` module now is temporarily off.
